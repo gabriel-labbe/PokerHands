@@ -1,0 +1,2344 @@
+﻿PokerStars Zoom Hand #250121740384:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:27:53 NZT [2024/04/22 21:27:53 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: kingncv ($12.82 in chips) 
+Seat 2: PS.fmoreno ($15.07 in chips) 
+Seat 3: le bab1 ($2.71 in chips) 
+Seat 4: gablabzmoney ($10 in chips) 
+Seat 5: emeraldsrus ($3.82 in chips) 
+Seat 6: sigmanolimit ($11.15 in chips) 
+PS.fmoreno: posts small blind $0.05
+le bab1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Kd As]
+gablabzmoney: raises $0.14 to $0.24
+emeraldsrus: folds 
+sigmanolimit: folds 
+kingncv: folds 
+PS.fmoreno: folds 
+le bab1: raises $2.47 to $2.71 and is all-in
+gablabzmoney: calls $2.47
+*** FLOP *** [3h 6d 8s]
+*** TURN *** [3h 6d 8s] [6s]
+*** RIVER *** [3h 6d 8s 6s] [2s]
+*** SHOW DOWN ***
+le bab1: shows [Kh Ah] (a pair of Sixes)
+gablabzmoney: shows [Kd As] (a pair of Sixes)
+le bab1 collected $2.61 from pot
+gablabzmoney collected $2.61 from pot
+*** SUMMARY ***
+Total pot $5.47 | Rake $0.25 
+Board [3h 6d 8s 6s 2s]
+Seat 1: kingncv (button) folded before Flop (didn't bet)
+Seat 2: PS.fmoreno (small blind) folded before Flop
+Seat 3: le bab1 (big blind) showed [Kh Ah] and won ($2.61) with a pair of Sixes
+Seat 4: gablabzmoney showed [Kd As] and won ($2.61) with a pair of Sixes
+Seat 5: emeraldsrus folded before Flop (didn't bet)
+Seat 6: sigmanolimit folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121739238:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:27:46 NZT [2024/04/22 21:27:46 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sjh1215 ($9.76 in chips) 
+Seat 2: ciceron86 ($13.90 in chips) 
+Seat 3: gablabzmoney ($10 in chips) 
+Seat 4: LILPICOLE ($3.62 in chips) 
+Seat 5: TigerYear ($12.85 in chips) 
+Seat 6: dt_bhs ($11.69 in chips) 
+ciceron86: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5d 2s]
+LILPICOLE: raises $0.10 to $0.20
+TigerYear: folds 
+dt_bhs: folds 
+sjh1215: raises $0.10 to $0.30
+ciceron86: folds 
+gablabzmoney: folds 
+LILPICOLE: calls $0.10
+*** FLOP *** [Ts Th Js]
+LILPICOLE: bets $0.36
+sjh1215: calls $0.36
+*** TURN *** [Ts Th Js] [8d]
+LILPICOLE: bets $2.96 and is all-in
+sjh1215: calls $2.96
+*** RIVER *** [Ts Th Js 8d] [5c]
+*** SHOW DOWN ***
+LILPICOLE: shows [9s Ac] (a pair of Tens)
+sjh1215: shows [Qs Jc] (two pair, Jacks and Tens)
+sjh1215 collected $7.06 from pot
+*** SUMMARY ***
+Total pot $7.39 | Rake $0.33 
+Board [Ts Th Js 8d 5c]
+Seat 1: sjh1215 (button) showed [Qs Jc] and won ($7.06) with two pair, Jacks and Tens
+Seat 2: ciceron86 (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) folded before Flop
+Seat 4: LILPICOLE showed [9s Ac] and lost with a pair of Tens
+Seat 5: TigerYear folded before Flop (didn't bet)
+Seat 6: dt_bhs folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121748933:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:28:45 NZT [2024/04/22 21:28:45 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($10 in chips) 
+Seat 2: iSergantos ($10.98 in chips) 
+Seat 3: masa-ivan ($9.20 in chips) 
+Seat 4: 01WorldMoney ($19.85 in chips) 
+Seat 5: PS.fmoreno ($23.36 in chips) 
+Seat 6: CharlieYu ($19.25 in chips) 
+iSergantos: posts small blind $0.05
+masa-ivan: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jh 8s]
+01WorldMoney: folds 
+PS.fmoreno: folds 
+CharlieYu: folds 
+gablabzmoney: folds 
+iSergantos: folds 
+Uncalled bet ($0.05) returned to masa-ivan
+masa-ivan collected $0.10 from pot
+masa-ivan: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: iSergantos (small blind) folded before Flop
+Seat 3: masa-ivan (big blind) collected ($0.10)
+Seat 4: 01WorldMoney folded before Flop (didn't bet)
+Seat 5: PS.fmoreno folded before Flop (didn't bet)
+Seat 6: CharlieYu folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121747767:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:28:38 NZT [2024/04/22 21:28:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aapedroo ($28.13 in chips) 
+Seat 2: jackkthorntonn ($12.07 in chips) 
+Seat 3: gablabzmoney ($10 in chips) 
+Seat 4: le bab1 ($2.61 in chips) 
+Seat 5: aly_dinamo10 ($13.71 in chips) 
+Seat 6: mrln1251 ($5.49 in chips) 
+jackkthorntonn: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Th 2s]
+le bab1: raises $0.10 to $0.20
+aly_dinamo10: folds 
+mrln1251: folds 
+aapedroo: folds 
+jackkthorntonn: calls $0.15
+gablabzmoney: folds 
+*** FLOP *** [4s Kc 4h]
+jackkthorntonn: checks 
+le bab1: bets $0.48
+jackkthorntonn: folds 
+Uncalled bet ($0.48) returned to le bab1
+le bab1 collected $0.48 from pot
+le bab1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [4s Kc 4h]
+Seat 1: aapedroo (button) folded before Flop (didn't bet)
+Seat 2: jackkthorntonn (small blind) folded on the Flop
+Seat 3: gablabzmoney (big blind) folded before Flop
+Seat 4: le bab1 collected ($0.48)
+Seat 5: aly_dinamo10 folded before Flop (didn't bet)
+Seat 6: mrln1251 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121749711:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:28:50 NZT [2024/04/22 21:28:50 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: iSergantos ($10.93 in chips) 
+Seat 2: gablabzmoney ($10 in chips) 
+Seat 3: emeraldsrus ($3.62 in chips) 
+Seat 4: sigmanolimit ($11.57 in chips) 
+Seat 5: debshi ($20.23 in chips) 
+Seat 6: TigerYear ($15 in chips) 
+gablabzmoney: posts small blind $0.05
+emeraldsrus: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Kc Th]
+sigmanolimit: folds 
+debshi: folds 
+TigerYear: folds 
+iSergantos: folds 
+gablabzmoney: calls $0.05
+emeraldsrus: checks 
+*** FLOP *** [5s Ah Tc]
+gablabzmoney: bets $0.10
+emeraldsrus: folds 
+Uncalled bet ($0.10) returned to gablabzmoney
+gablabzmoney collected $0.19 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [5s Ah Tc]
+Seat 1: iSergantos (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) collected ($0.19)
+Seat 3: emeraldsrus (big blind) folded on the Flop
+Seat 4: sigmanolimit folded before Flop (didn't bet)
+Seat 5: debshi folded before Flop (didn't bet)
+Seat 6: TigerYear folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121745450:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:28:24 NZT [2024/04/22 21:28:24 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: thenatsman70 ($10 in chips) 
+Seat 2: gablabzmoney ($10 in chips) 
+Seat 3: lucky7wlsrud ($10.84 in chips) 
+Seat 4: ciceron86 ($13.90 in chips) 
+Seat 5: le bab1 ($2.61 in chips) 
+Seat 6: ekimbrasilloko ($5.54 in chips) 
+gablabzmoney: posts small blind $0.05
+lucky7wlsrud: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5h Jd]
+ciceron86: folds 
+le bab1: folds 
+ekimbrasilloko: calls $0.10
+thenatsman70: raises $0.40 to $0.50
+gablabzmoney: folds 
+lucky7wlsrud: folds 
+ekimbrasilloko: calls $0.40
+*** FLOP *** [8h 2d 7s]
+ekimbrasilloko: checks 
+thenatsman70: bets $0.75
+ekimbrasilloko: raises $1.30 to $2.05
+thenatsman70: folds 
+Uncalled bet ($1.30) returned to ekimbrasilloko
+ekimbrasilloko collected $2.53 from pot
+ekimbrasilloko: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.65 | Rake $0.12 
+Board [8h 2d 7s]
+Seat 1: thenatsman70 (button) folded on the Flop
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: lucky7wlsrud (big blind) folded before Flop
+Seat 4: ciceron86 folded before Flop (didn't bet)
+Seat 5: le bab1 folded before Flop (didn't bet)
+Seat 6: ekimbrasilloko collected ($2.53)
+
+
+
+PokerStars Zoom Hand #250121754060:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:29:16 NZT [2024/04/22 21:29:16 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: DragonDC06 ($3.85 in chips) 
+Seat 2: mrln1251 ($5.39 in chips) 
+Seat 3: Rdidi06 ($3 in chips) 
+Seat 4: thenatsman70 ($10.05 in chips) 
+Seat 5: Karaflas1 ($11.51 in chips) 
+Seat 6: gablabzmoney ($10.09 in chips) 
+mrln1251: posts small blind $0.05
+Rdidi06: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [4d 3d]
+thenatsman70: folds 
+Karaflas1: raises $0.10 to $0.20
+gablabzmoney: folds 
+DragonDC06: folds 
+mrln1251: folds 
+Rdidi06: calls $0.10
+*** FLOP *** [2c Kh Qs]
+Rdidi06: checks 
+Karaflas1: bets $0.13
+Rdidi06: folds 
+Uncalled bet ($0.13) returned to Karaflas1
+Karaflas1 collected $0.43 from pot
+Karaflas1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2c Kh Qs]
+Seat 1: DragonDC06 (button) folded before Flop (didn't bet)
+Seat 2: mrln1251 (small blind) folded before Flop
+Seat 3: Rdidi06 (big blind) folded on the Flop
+Seat 4: thenatsman70 folded before Flop (didn't bet)
+Seat 5: Karaflas1 collected ($0.43)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121757182:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:29:35 NZT [2024/04/22 21:29:35 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sigmanolimit ($10.40 in chips) 
+Seat 2: WCamejo1 ($10 in chips) 
+Seat 3: mrln1251 ($5.34 in chips) 
+Seat 4: Navking9 ($12.08 in chips) 
+Seat 5: gablabzmoney ($10.09 in chips) 
+Seat 6: Escu76 ($10.49 in chips) 
+WCamejo1: posts small blind $0.05
+mrln1251: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qh 3h]
+Navking9: folds 
+gablabzmoney: raises $0.14 to $0.24
+Escu76: folds 
+sigmanolimit: raises $0.60 to $0.84
+WCamejo1: folds 
+mrln1251: folds 
+gablabzmoney: folds 
+Uncalled bet ($0.60) returned to sigmanolimit
+sigmanolimit collected $0.63 from pot
+sigmanolimit: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.63 | Rake $0 
+Seat 1: sigmanolimit (button) collected ($0.63)
+Seat 2: WCamejo1 (small blind) folded before Flop
+Seat 3: mrln1251 (big blind) folded before Flop
+Seat 4: Navking9 folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop
+Seat 6: Escu76 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121755241:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:29:23 NZT [2024/04/22 21:29:23 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($10.09 in chips) 
+Seat 2: ciceron86 ($12.24 in chips) 
+Seat 3: thenatsman70 ($10 in chips) 
+Seat 4: Wertyyy777 ($14.73 in chips) 
+Seat 5: sjh1215 ($24.71 in chips) 
+Seat 6: Navking9 ($12.08 in chips) 
+ciceron86: posts small blind $0.05
+thenatsman70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8h 5c]
+Wertyyy777: folds 
+sjh1215: raises $0.10 to $0.20
+Navking9: folds 
+gablabzmoney: folds 
+ciceron86: folds 
+thenatsman70: calls $0.10
+*** FLOP *** [3c 2c Tc]
+thenatsman70: checks 
+sjh1215: checks 
+*** TURN *** [3c 2c Tc] [Js]
+thenatsman70: bets $0.33
+sjh1215: raises $0.55 to $0.88
+thenatsman70: raises $8.92 to $9.80 and is all-in
+sjh1215: folds 
+Uncalled bet ($8.92) returned to thenatsman70
+thenatsman70 collected $2.11 from pot
+thenatsman70: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.10 
+Board [3c 2c Tc Js]
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: ciceron86 (small blind) folded before Flop
+Seat 3: thenatsman70 (big blind) collected ($2.11)
+Seat 4: Wertyyy777 folded before Flop (didn't bet)
+Seat 5: sjh1215 folded on the Turn
+Seat 6: Navking9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121755887:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:29:27 NZT [2024/04/22 21:29:27 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Escu76 ($10.49 in chips) 
+Seat 2: Wizarddude ($15.72 in chips) 
+Seat 3: aly_dinamo10 ($13.66 in chips) 
+Seat 4: emeraldsrus ($3.47 in chips) 
+Seat 5: DragonDC06 ($3.85 in chips) 
+Seat 6: gablabzmoney ($10.09 in chips) 
+Wizarddude: posts small blind $0.05
+aly_dinamo10: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [9c 3d]
+emeraldsrus: folds 
+DragonDC06: raises $0.10 to $0.20
+gablabzmoney: folds 
+Escu76: folds 
+Wizarddude: calls $0.15
+aly_dinamo10: folds 
+*** FLOP *** [8s 4c 8d]
+Wizarddude: checks 
+DragonDC06: bets $0.20
+Wizarddude: raises $0.88 to $1.08
+DragonDC06: folds 
+Uncalled bet ($0.88) returned to Wizarddude
+Wizarddude collected $0.86 from pot
+Wizarddude: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [8s 4c 8d]
+Seat 1: Escu76 (button) folded before Flop (didn't bet)
+Seat 2: Wizarddude (small blind) collected ($0.86)
+Seat 3: aly_dinamo10 (big blind) folded before Flop
+Seat 4: emeraldsrus folded before Flop (didn't bet)
+Seat 5: DragonDC06 folded on the Flop
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121759846:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:29:51 NZT [2024/04/22 21:29:51 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: abbi555 ($9.56 in chips) 
+Seat 2: gablabzmoney ($10 in chips) 
+Seat 3: dlazechk ($17.79 in chips) 
+Seat 4: aapedroo ($20.10 in chips) 
+Seat 5: iSergantos ($11.23 in chips) 
+Seat 6: CharlieYu ($10.19 in chips) 
+gablabzmoney: posts small blind $0.05
+dlazechk: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8h 6c]
+aapedroo: folds 
+iSergantos: folds 
+CharlieYu: folds 
+abbi555: folds 
+gablabzmoney: calls $0.05
+dlazechk: checks 
+*** FLOP *** [9s Ks 2s]
+gablabzmoney: checks 
+dlazechk: checks 
+*** TURN *** [9s Ks 2s] [9c]
+gablabzmoney: checks 
+dlazechk: bets $0.18
+gablabzmoney: folds 
+Uncalled bet ($0.18) returned to dlazechk
+dlazechk collected $0.19 from pot
+dlazechk: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [9s Ks 2s 9c]
+Seat 1: abbi555 (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) folded on the Turn
+Seat 3: dlazechk (big blind) collected ($0.19)
+Seat 4: aapedroo folded before Flop (didn't bet)
+Seat 5: iSergantos folded before Flop (didn't bet)
+Seat 6: CharlieYu folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121767328:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:30:35 NZT [2024/04/22 21:30:35 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Die8 ($13.42 in chips) 
+Seat 2: aapedroo ($12.25 in chips) 
+Seat 3: sjh1215 ($12.06 in chips) 
+Seat 4: grintsov99 ($10.15 in chips) 
+Seat 5: gablabzmoney ($10 in chips) 
+Seat 6: iSergantos ($11.23 in chips) 
+aapedroo: posts small blind $0.05
+sjh1215: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8s Ks]
+grintsov99: folds 
+gablabzmoney: raises $0.14 to $0.24
+iSergantos: folds 
+Die8: folds 
+aapedroo: folds 
+sjh1215: calls $0.14
+*** FLOP *** [9c Jh 5s]
+sjh1215: checks 
+gablabzmoney: bets $0.17
+sjh1215: folds 
+Uncalled bet ($0.17) returned to gablabzmoney
+gablabzmoney collected $0.51 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [9c Jh 5s]
+Seat 1: Die8 (button) folded before Flop (didn't bet)
+Seat 2: aapedroo (small blind) folded before Flop
+Seat 3: sjh1215 (big blind) folded on the Flop
+Seat 4: grintsov99 folded before Flop (didn't bet)
+Seat 5: gablabzmoney collected ($0.51)
+Seat 6: iSergantos folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121770977:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:30:57 NZT [2024/04/22 21:30:57 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: edcon77 ($10.55 in chips) 
+Seat 2: sjh1215 ($11.82 in chips) 
+Seat 3: gablabzmoney ($10.27 in chips) 
+Seat 4: aly_dinamo10 ($13.34 in chips) 
+Seat 5: mustallin ($46.31 in chips) 
+Seat 6: thenatsman70 ($10 in chips) 
+sjh1215: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Th 6h]
+aly_dinamo10: folds 
+mustallin: raises $0.10 to $0.20
+thenatsman70: folds 
+edcon77: folds 
+sjh1215: folds 
+gablabzmoney: calls $0.10
+*** FLOP *** [3h 6s 5c]
+gablabzmoney: checks 
+mustallin: checks 
+*** TURN *** [3h 6s 5c] [Tc]
+gablabzmoney: bets $0.14
+mustallin: calls $0.14
+*** RIVER *** [3h 6s 5c Tc] [7s]
+gablabzmoney: bets $0.58
+mustallin: calls $0.58
+*** SHOW DOWN ***
+gablabzmoney: shows [Th 6h] (two pair, Tens and Sixes)
+mustallin: mucks hand 
+gablabzmoney collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [3h 6s 5c Tc 7s]
+Seat 1: edcon77 (button) folded before Flop (didn't bet)
+Seat 2: sjh1215 (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) showed [Th 6h] and won ($1.80) with two pair, Tens and Sixes
+Seat 4: aly_dinamo10 folded before Flop (didn't bet)
+Seat 5: mustallin mucked [7c Kc]
+Seat 6: thenatsman70 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121777781:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:31:38 NZT [2024/04/22 21:31:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($11.15 in chips) 
+Seat 2: le bab1 ($3 in chips) 
+Seat 3: lucky7wlsrud ($11.32 in chips) 
+Seat 4: abbi555 ($9.26 in chips) 
+Seat 5: chips_vitri ($10 in chips) 
+Seat 6: mustallin ($45.39 in chips) 
+le bab1: posts small blind $0.05
+lucky7wlsrud: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qh 8h]
+abbi555: folds 
+chips_vitri: folds 
+mustallin: folds 
+gablabzmoney: raises $0.10 to $0.20
+le bab1: folds 
+lucky7wlsrud: folds 
+Uncalled bet ($0.10) returned to gablabzmoney
+gablabzmoney collected $0.25 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gablabzmoney (button) collected ($0.25)
+Seat 2: le bab1 (small blind) folded before Flop
+Seat 3: lucky7wlsrud (big blind) folded before Flop
+Seat 4: abbi555 folded before Flop (didn't bet)
+Seat 5: chips_vitri folded before Flop (didn't bet)
+Seat 6: mustallin folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121780816:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:31:56 NZT [2024/04/22 21:31:56 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: masa-ivan ($8.90 in chips) 
+Seat 2: dlazechk ($8.15 in chips) 
+Seat 3: thenatsman70 ($12.27 in chips) 
+Seat 4: emeraldsrus ($3.58 in chips) 
+Seat 5: aapedroo ($14.84 in chips) 
+Seat 6: gablabzmoney ($11.30 in chips) 
+dlazechk: posts small blind $0.05
+thenatsman70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8h 7c]
+emeraldsrus: folds 
+aapedroo: folds 
+gablabzmoney: folds 
+masa-ivan: raises $0.10 to $0.20
+dlazechk: folds 
+thenatsman70: raises $0.45 to $0.65
+masa-ivan: folds 
+Uncalled bet ($0.45) returned to thenatsman70
+thenatsman70 collected $0.45 from pot
+thenatsman70: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: masa-ivan (button) folded before Flop
+Seat 2: dlazechk (small blind) folded before Flop
+Seat 3: thenatsman70 (big blind) collected ($0.45)
+Seat 4: emeraldsrus folded before Flop (didn't bet)
+Seat 5: aapedroo folded before Flop (didn't bet)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121782354:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:32:05 NZT [2024/04/22 21:32:05 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aly_dinamo10 ($16.61 in chips) 
+Seat 2: lucky7wlsrud ($12.46 in chips) 
+Seat 3: ciceron86 ($10.10 in chips) 
+Seat 4: TigerYear ($12.08 in chips) 
+Seat 5: gablabzmoney ($11.30 in chips) 
+Seat 6: xxjayjayxx ($10.34 in chips) 
+lucky7wlsrud: posts small blind $0.05
+ciceron86: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jd Kh]
+TigerYear: folds 
+gablabzmoney: raises $0.14 to $0.24
+xxjayjayxx: folds 
+aly_dinamo10: folds 
+lucky7wlsrud: folds 
+ciceron86: folds 
+Uncalled bet ($0.14) returned to gablabzmoney
+gablabzmoney collected $0.25 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: aly_dinamo10 (button) folded before Flop (didn't bet)
+Seat 2: lucky7wlsrud (small blind) folded before Flop
+Seat 3: ciceron86 (big blind) folded before Flop
+Seat 4: TigerYear folded before Flop (didn't bet)
+Seat 5: gablabzmoney collected ($0.25)
+Seat 6: xxjayjayxx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121784685:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:32:19 NZT [2024/04/22 21:32:19 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aly_dinamo10 ($10 in chips) 
+Seat 2: gablabzmoney ($11.45 in chips) 
+Seat 3: ciceron86 ($13.01 in chips) 
+Seat 4: L a r a p377 ($11.67 in chips) 
+Seat 5: dlazechk ($8.10 in chips) 
+Seat 6: Johero14 ($12.56 in chips) 
+gablabzmoney: posts small blind $0.05
+ciceron86: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qh 8h]
+L a r a p377: folds 
+dlazechk: folds 
+Johero14: folds 
+aly_dinamo10: raises $0.15 to $0.25
+gablabzmoney: folds 
+ciceron86: calls $0.15
+*** FLOP *** [Qs Qd 7h]
+ciceron86: checks 
+aly_dinamo10: bets $0.17
+ciceron86: folds 
+Uncalled bet ($0.17) returned to aly_dinamo10
+aly_dinamo10 collected $0.53 from pot
+aly_dinamo10: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Qs Qd 7h]
+Seat 1: aly_dinamo10 (button) collected ($0.53)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: ciceron86 (big blind) folded on the Flop
+Seat 4: L a r a p377 folded before Flop (didn't bet)
+Seat 5: dlazechk folded before Flop (didn't bet)
+Seat 6: Johero14 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121786404:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:32:29 NZT [2024/04/22 21:32:29 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Cassim09 ($10 in chips) 
+Seat 2: thenatsman70 ($12.52 in chips) 
+Seat 3: CharlieYu ($10 in chips) 
+Seat 4: gablabzmoney ($11.40 in chips) 
+Seat 5: aapedroo ($14.94 in chips) 
+Seat 6: L a r a p377 ($11.62 in chips) 
+thenatsman70: posts small blind $0.05
+CharlieYu: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [7s Ad]
+gablabzmoney: raises $0.14 to $0.24
+aapedroo: folds 
+L a r a p377: folds 
+Cassim09: folds 
+thenatsman70: calls $0.19
+CharlieYu: calls $0.14
+*** FLOP *** [5c Th Ac]
+thenatsman70: checks 
+CharlieYu: checks 
+gablabzmoney: checks 
+*** TURN *** [5c Th Ac] [2s]
+thenatsman70: checks 
+CharlieYu: bets $0.30
+gablabzmoney: calls $0.30
+thenatsman70: calls $0.30
+*** RIVER *** [5c Th Ac 2s] [9c]
+thenatsman70: checks 
+CharlieYu: checks 
+gablabzmoney: checks 
+*** SHOW DOWN ***
+thenatsman70: shows [Qh As] (a pair of Aces)
+CharlieYu: shows [Qc Kc] (a flush, Ace high)
+gablabzmoney: mucks hand 
+CharlieYu collected $1.55 from pot
+*** SUMMARY ***
+Total pot $1.62 | Rake $0.07 
+Board [5c Th Ac 2s 9c]
+Seat 1: Cassim09 (button) folded before Flop (didn't bet)
+Seat 2: thenatsman70 (small blind) showed [Qh As] and lost with a pair of Aces
+Seat 3: CharlieYu (big blind) showed [Qc Kc] and won ($1.55) with a flush, Ace high
+Seat 4: gablabzmoney mucked [7s Ad]
+Seat 5: aapedroo folded before Flop (didn't bet)
+Seat 6: L a r a p377 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121793814:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:33:13 NZT [2024/04/22 21:33:13 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: hyttAAAAA ($12.48 in chips) 
+Seat 2: abbi555 ($10.29 in chips) 
+Seat 3: gablabzmoney ($10.86 in chips) 
+Seat 4: TigerYear ($10.17 in chips) 
+Seat 5: agentsmith101 ($15.83 in chips) 
+Seat 6: thenatsman70 ($10 in chips) 
+abbi555: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [3h 6s]
+TigerYear: folds 
+agentsmith101: folds 
+thenatsman70: folds 
+hyttAAAAA: raises $0.15 to $0.25
+abbi555: folds 
+gablabzmoney: folds 
+Uncalled bet ($0.15) returned to hyttAAAAA
+hyttAAAAA collected $0.25 from pot
+hyttAAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: hyttAAAAA (button) collected ($0.25)
+Seat 2: abbi555 (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) folded before Flop
+Seat 4: TigerYear folded before Flop (didn't bet)
+Seat 5: agentsmith101 folded before Flop (didn't bet)
+Seat 6: thenatsman70 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121796817:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:33:31 NZT [2024/04/22 21:33:31 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($10.76 in chips) 
+Seat 2: CharlieYu ($11.01 in chips) 
+Seat 3: TigerYear ($11.97 in chips) 
+Seat 4: masa-ivan ($8.92 in chips) 
+Seat 5: iSergantos ($13.50 in chips) 
+Seat 6: lucky7wlsrud ($12.66 in chips) 
+CharlieYu: posts small blind $0.05
+TigerYear: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qd Td]
+masa-ivan: folds 
+iSergantos: raises $0.13 to $0.23
+lucky7wlsrud: folds 
+gablabzmoney: calls $0.23
+CharlieYu: folds 
+TigerYear: folds 
+*** FLOP *** [9d 4d Ad]
+iSergantos: bets $0.31
+gablabzmoney: calls $0.31
+*** TURN *** [9d 4d Ad] [2c]
+iSergantos: bets $0.77
+gablabzmoney: calls $0.77
+*** RIVER *** [9d 4d Ad 2c] [9s]
+iSergantos: checks 
+gablabzmoney: bets $1.43
+iSergantos: calls $1.43
+*** SHOW DOWN ***
+gablabzmoney: shows [Qd Td] (a flush, Ace high)
+iSergantos: mucks hand 
+gablabzmoney collected $5.38 from pot
+*** SUMMARY ***
+Total pot $5.63 | Rake $0.25 
+Board [9d 4d Ad 2c 9s]
+Seat 1: gablabzmoney (button) showed [Qd Td] and won ($5.38) with a flush, Ace high
+Seat 2: CharlieYu (small blind) folded before Flop
+Seat 3: TigerYear (big blind) folded before Flop
+Seat 4: masa-ivan folded before Flop (didn't bet)
+Seat 5: iSergantos mucked [As Qc]
+Seat 6: lucky7wlsrud folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121807778:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:34:39 NZT [2024/04/22 21:34:39 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: DragonDC06 ($6.58 in chips) 
+Seat 2: ciceron86 ($10 in chips) 
+Seat 3: Jun7x ($10 in chips) 
+Seat 4: gablabzmoney ($13.40 in chips) 
+Seat 5: aly_dinamo10 ($12.82 in chips) 
+Seat 6: iSergantos ($10.76 in chips) 
+ciceron86: posts small blind $0.05
+Jun7x: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qc 8d]
+gablabzmoney: folds 
+aly_dinamo10: folds 
+iSergantos: folds 
+DragonDC06: folds 
+ciceron86: folds 
+Uncalled bet ($0.05) returned to Jun7x
+Jun7x collected $0.10 from pot
+Jun7x: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: DragonDC06 (button) folded before Flop (didn't bet)
+Seat 2: ciceron86 (small blind) folded before Flop
+Seat 3: Jun7x (big blind) collected ($0.10)
+Seat 4: gablabzmoney folded before Flop (didn't bet)
+Seat 5: aly_dinamo10 folded before Flop (didn't bet)
+Seat 6: iSergantos folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121808431:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:34:43 NZT [2024/04/22 21:34:43 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: agentsmith101 ($10.78 in chips) 
+Seat 2: lucky7wlsrud ($15.72 in chips) 
+Seat 3: Navking9 ($10.27 in chips) 
+Seat 4: iSergantos ($10.76 in chips) 
+Seat 5: gablabzmoney ($13.40 in chips) 
+Seat 6: hiding.by ($11.36 in chips) 
+lucky7wlsrud: posts small blind $0.05
+Navking9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Ac Tc]
+iSergantos: folds 
+gablabzmoney: raises $0.14 to $0.24
+hiding.by: folds 
+agentsmith101: folds 
+lucky7wlsrud: folds 
+Navking9: folds 
+Uncalled bet ($0.14) returned to gablabzmoney
+gablabzmoney collected $0.25 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: agentsmith101 (button) folded before Flop (didn't bet)
+Seat 2: lucky7wlsrud (small blind) folded before Flop
+Seat 3: Navking9 (big blind) folded before Flop
+Seat 4: iSergantos folded before Flop (didn't bet)
+Seat 5: gablabzmoney collected ($0.25)
+Seat 6: hiding.by folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121812515:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:35:08 NZT [2024/04/22 21:35:08 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: abbi555 ($9.94 in chips) 
+Seat 2: aly_dinamo10 ($12.87 in chips) 
+Seat 3: xxjayjayxx ($14.80 in chips) 
+Seat 4: sjh1215 ($8.49 in chips) 
+Seat 5: thenatsman70 ($12.03 in chips) 
+Seat 6: gablabzmoney ($13.55 in chips) 
+aly_dinamo10: posts small blind $0.05
+xxjayjayxx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [4d Qs]
+sjh1215: folds 
+thenatsman70: folds 
+gablabzmoney: folds 
+abbi555: folds 
+aly_dinamo10: folds 
+Uncalled bet ($0.05) returned to xxjayjayxx
+xxjayjayxx collected $0.10 from pot
+xxjayjayxx: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: abbi555 (button) folded before Flop (didn't bet)
+Seat 2: aly_dinamo10 (small blind) folded before Flop
+Seat 3: xxjayjayxx (big blind) collected ($0.10)
+Seat 4: sjh1215 folded before Flop (didn't bet)
+Seat 5: thenatsman70 folded before Flop (didn't bet)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121813364:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:35:13 NZT [2024/04/22 21:35:13 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: hyttAAAAA ($12.69 in chips) 
+Seat 2: sjh1215 ($12.55 in chips) 
+Seat 3: thenatsman70 ($12.64 in chips) 
+Seat 4: gablabzmoney ($13.55 in chips) 
+Seat 5: Real2323me ($30.74 in chips) 
+Seat 6: iSergantos ($10.66 in chips) 
+sjh1215: posts small blind $0.05
+thenatsman70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jc 5c]
+gablabzmoney: folds 
+Real2323me: folds 
+iSergantos: raises $0.13 to $0.23
+hyttAAAAA: raises $0.63 to $0.86
+sjh1215: folds 
+thenatsman70: folds 
+iSergantos: folds 
+Uncalled bet ($0.63) returned to hyttAAAAA
+hyttAAAAA collected $0.61 from pot
+hyttAAAAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.61 | Rake $0 
+Seat 1: hyttAAAAA (button) collected ($0.61)
+Seat 2: sjh1215 (small blind) folded before Flop
+Seat 3: thenatsman70 (big blind) folded before Flop
+Seat 4: gablabzmoney folded before Flop (didn't bet)
+Seat 5: Real2323me folded before Flop (didn't bet)
+Seat 6: iSergantos folded before Flop
+
+
+
+PokerStars Zoom Hand #250121814180:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:35:18 NZT [2024/04/22 21:35:18 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sigmanolimit ($11.94 in chips) 
+Seat 2: le bab1 ($5.63 in chips) 
+Seat 3: gablabzmoney ($13.55 in chips) 
+Seat 4: Real2323me ($30.74 in chips) 
+Seat 5: grintsov99 ($10.10 in chips) 
+Seat 6: thenatsman70 ($10 in chips) 
+le bab1: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [6d 7s]
+Real2323me: calls $0.10
+grintsov99: folds 
+thenatsman70: folds 
+sigmanolimit: folds 
+le bab1: folds 
+gablabzmoney: checks 
+*** FLOP *** [Qc 4s 3s]
+gablabzmoney: checks 
+Real2323me: checks 
+*** TURN *** [Qc 4s 3s] [Ac]
+gablabzmoney: checks 
+Real2323me: checks 
+*** RIVER *** [Qc 4s 3s Ac] [5s]
+gablabzmoney: bets $0.18
+Real2323me: folds 
+Uncalled bet ($0.18) returned to gablabzmoney
+gablabzmoney collected $0.24 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qc 4s 3s Ac 5s]
+Seat 1: sigmanolimit (button) folded before Flop (didn't bet)
+Seat 2: le bab1 (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) collected ($0.24)
+Seat 4: Real2323me folded on the River
+Seat 5: grintsov99 folded before Flop (didn't bet)
+Seat 6: thenatsman70 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121823039:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:36:12 NZT [2024/04/22 21:36:12 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Cassim09 ($11.01 in chips) 
+Seat 2: TigerYear ($11.20 in chips) 
+Seat 3: Escu76 ($9.87 in chips) 
+Seat 4: gablabzmoney ($13.69 in chips) 
+Seat 5: mrln1251 ($5 in chips) 
+Seat 6: thenatsman70 ($12.54 in chips) 
+TigerYear: posts small blind $0.05
+Escu76: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [6c 6s]
+gablabzmoney: raises $0.14 to $0.24
+mrln1251: folds 
+thenatsman70: folds 
+Cassim09: folds 
+TigerYear: folds 
+Escu76: folds 
+Uncalled bet ($0.14) returned to gablabzmoney
+gablabzmoney collected $0.25 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Cassim09 (button) folded before Flop (didn't bet)
+Seat 2: TigerYear (small blind) folded before Flop
+Seat 3: Escu76 (big blind) folded before Flop
+Seat 4: gablabzmoney collected ($0.25)
+Seat 5: mrln1251 folded before Flop (didn't bet)
+Seat 6: thenatsman70 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121824993:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:36:24 NZT [2024/04/22 21:36:24 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aly_dinamo10 ($11.37 in chips) 
+Seat 2: gablabzmoney ($13.84 in chips) 
+Seat 3: lucky7wlsrud ($14.07 in chips) 
+Seat 4: sjh1215 ($19.35 in chips) 
+Seat 5: Wizarddude ($16.95 in chips) 
+Seat 6: TigerYear ($14.57 in chips) 
+gablabzmoney: posts small blind $0.05
+lucky7wlsrud: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [6d Td]
+sjh1215: folds 
+Wizarddude: folds 
+TigerYear: raises $0.20 to $0.30
+aly_dinamo10: folds 
+gablabzmoney: folds 
+lucky7wlsrud: folds 
+Uncalled bet ($0.20) returned to TigerYear
+TigerYear collected $0.25 from pot
+TigerYear: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: aly_dinamo10 (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: lucky7wlsrud (big blind) folded before Flop
+Seat 4: sjh1215 folded before Flop (didn't bet)
+Seat 5: Wizarddude folded before Flop (didn't bet)
+Seat 6: TigerYear collected ($0.25)
+
+
+
+PokerStars Zoom Hand #250121828139:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:36:43 NZT [2024/04/22 21:36:43 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($13.79 in chips) 
+Seat 2: aapedroo ($20.24 in chips) 
+Seat 3: thenatsman70 ($12.49 in chips) 
+Seat 4: DragonDC06 ($6.43 in chips) 
+Seat 5: masa-ivan ($13.03 in chips) 
+Seat 6: ciceron86 ($10.02 in chips) 
+aapedroo: posts small blind $0.05
+thenatsman70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jh 6d]
+DragonDC06: folds 
+masa-ivan: folds 
+ciceron86: folds 
+gablabzmoney: folds 
+aapedroo: folds 
+Uncalled bet ($0.05) returned to thenatsman70
+thenatsman70 collected $0.10 from pot
+thenatsman70: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: aapedroo (small blind) folded before Flop
+Seat 3: thenatsman70 (big blind) collected ($0.10)
+Seat 4: DragonDC06 folded before Flop (didn't bet)
+Seat 5: masa-ivan folded before Flop (didn't bet)
+Seat 6: ciceron86 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121829635:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:36:52 NZT [2024/04/22 21:36:52 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: pedransapato ($15.13 in chips) 
+Seat 2: gablabzmoney ($13.79 in chips) 
+Seat 3: Cassim09 ($10 in chips) 
+Seat 4: DragonDC06 ($6.43 in chips) 
+Seat 5: abbi555 ($10.68 in chips) 
+Seat 6: le bab1 ($6.02 in chips) 
+gablabzmoney: posts small blind $0.05
+Cassim09: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8h Ah]
+DragonDC06: folds 
+abbi555: folds 
+le bab1: folds 
+pedransapato: folds 
+gablabzmoney: raises $0.20 to $0.30
+Cassim09: folds 
+Uncalled bet ($0.20) returned to gablabzmoney
+gablabzmoney collected $0.20 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: pedransapato (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) collected ($0.20)
+Seat 3: Cassim09 (big blind) folded before Flop
+Seat 4: DragonDC06 folded before Flop (didn't bet)
+Seat 5: abbi555 folded before Flop (didn't bet)
+Seat 6: le bab1 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121828984:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:36:48 NZT [2024/04/22 21:36:48 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: le bab1 ($6.02 in chips) 
+Seat 2: Karaflas1 ($16.24 in chips) 
+Seat 3: sjh1215 ($8.89 in chips) 
+Seat 4: lucky7wlsrud ($10.15 in chips) 
+Seat 5: gablabzmoney ($13.79 in chips) 
+Seat 6: aapedroo ($20.19 in chips) 
+Karaflas1: posts small blind $0.05
+sjh1215: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Js 4h]
+lucky7wlsrud: folds 
+gablabzmoney: folds 
+aapedroo: raises $0.15 to $0.25
+le bab1: folds 
+Karaflas1: folds 
+sjh1215: calls $0.15
+*** FLOP *** [4c Qd 3c]
+sjh1215: checks 
+aapedroo: bets $0.16
+sjh1215: folds 
+Uncalled bet ($0.16) returned to aapedroo
+aapedroo collected $0.53 from pot
+aapedroo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4c Qd 3c]
+Seat 1: le bab1 (button) folded before Flop (didn't bet)
+Seat 2: Karaflas1 (small blind) folded before Flop
+Seat 3: sjh1215 (big blind) folded on the Flop
+Seat 4: lucky7wlsrud folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: aapedroo collected ($0.53)
+
+
+
+PokerStars Zoom Hand #250121831748:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:37:05 NZT [2024/04/22 21:37:05 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aapedroo ($10 in chips) 
+Seat 2: debshi ($18.04 in chips) 
+Seat 3: ciceron86 ($12.21 in chips) 
+Seat 4: iSergantos ($11.59 in chips) 
+Seat 5: Cassim09 ($13.36 in chips) 
+Seat 6: gablabzmoney ($13.89 in chips) 
+debshi: posts small blind $0.05
+ciceron86: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5h Tc]
+iSergantos: folds 
+Cassim09: folds 
+gablabzmoney: folds 
+aapedroo: folds 
+debshi: folds 
+Uncalled bet ($0.05) returned to ciceron86
+ciceron86 collected $0.10 from pot
+ciceron86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: aapedroo (button) folded before Flop (didn't bet)
+Seat 2: debshi (small blind) folded before Flop
+Seat 3: ciceron86 (big blind) collected ($0.10)
+Seat 4: iSergantos folded before Flop (didn't bet)
+Seat 5: Cassim09 folded before Flop (didn't bet)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121832718:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:37:11 NZT [2024/04/22 21:37:11 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: debshi ($17.99 in chips) 
+Seat 2: MontyD0n ($10 in chips) 
+Seat 3: gablabzmoney ($13.89 in chips) 
+Seat 4: Cassim09 ($10 in chips) 
+Seat 5: Karaflas1 ($16.19 in chips) 
+Seat 6: thenatsman70 ($12.54 in chips) 
+MontyD0n: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [3c 3h]
+Cassim09: folds 
+Karaflas1: folds 
+thenatsman70: raises $0.15 to $0.25
+debshi: folds 
+MontyD0n: calls $0.20
+gablabzmoney: calls $0.15
+*** FLOP *** [9s Ac Kc]
+MontyD0n: checks 
+gablabzmoney: checks 
+thenatsman70: checks 
+*** TURN *** [9s Ac Kc] [4h]
+MontyD0n: bets $0.50
+gablabzmoney: folds 
+thenatsman70: folds 
+Uncalled bet ($0.50) returned to MontyD0n
+MontyD0n collected $0.72 from pot
+MontyD0n: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9s Ac Kc 4h]
+Seat 1: debshi (button) folded before Flop (didn't bet)
+Seat 2: MontyD0n (small blind) collected ($0.72)
+Seat 3: gablabzmoney (big blind) folded on the Turn
+Seat 4: Cassim09 folded before Flop (didn't bet)
+Seat 5: Karaflas1 folded before Flop (didn't bet)
+Seat 6: thenatsman70 folded on the Turn
+
+
+
+PokerStars Zoom Hand #250121844813:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:38:26 NZT [2024/04/22 21:38:26 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sigmanolimit ($10 in chips) 
+Seat 2: T0N_C0ST@ ($26.19 in chips) 
+Seat 3: jackkthorntonn ($7.51 in chips) 
+Seat 4: agentsmith101 ($11.57 in chips) 
+Seat 5: gablabzmoney ($13.64 in chips) 
+Seat 6: krisko_cska ($7.58 in chips) 
+T0N_C0ST@: posts small blind $0.05
+jackkthorntonn: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jh 6h]
+agentsmith101: folds 
+gablabzmoney: folds 
+krisko_cska: folds 
+sigmanolimit: folds 
+T0N_C0ST@: folds 
+Uncalled bet ($0.05) returned to jackkthorntonn
+jackkthorntonn collected $0.10 from pot
+jackkthorntonn: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sigmanolimit (button) folded before Flop (didn't bet)
+Seat 2: T0N_C0ST@ (small blind) folded before Flop
+Seat 3: jackkthorntonn (big blind) collected ($0.10)
+Seat 4: agentsmith101 folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: krisko_cska folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121845809:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:38:32 NZT [2024/04/22 21:38:32 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($13.64 in chips) 
+Seat 2: ciceron86 ($12.83 in chips) 
+Seat 3: nyanchuuuu ($11.63 in chips) 
+Seat 4: TigerYear ($14.27 in chips) 
+Seat 5: sigmanolimit ($10.27 in chips) 
+Seat 6: Cassim09 ($11.16 in chips) 
+ciceron86: posts small blind $0.05
+nyanchuuuu: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5d 8h]
+TigerYear: folds 
+sigmanolimit: raises $0.15 to $0.25
+Cassim09: folds 
+gablabzmoney: folds 
+ciceron86: folds 
+nyanchuuuu: folds 
+Uncalled bet ($0.15) returned to sigmanolimit
+sigmanolimit collected $0.25 from pot
+sigmanolimit: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: ciceron86 (small blind) folded before Flop
+Seat 3: nyanchuuuu (big blind) folded before Flop
+Seat 4: TigerYear folded before Flop (didn't bet)
+Seat 5: sigmanolimit collected ($0.25)
+Seat 6: Cassim09 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121847381:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:38:42 NZT [2024/04/22 21:38:42 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: priidikas1 ($10.20 in chips) 
+Seat 2: 01WorldMoney ($20.11 in chips) 
+Seat 3: thenatsman70 ($10 in chips) 
+Seat 4: Navking9 ($10.69 in chips) 
+Seat 5: aapedroo ($11.31 in chips) 
+Seat 6: gablabzmoney ($13.64 in chips) 
+01WorldMoney: posts small blind $0.05
+thenatsman70: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5h Td]
+Navking9: folds 
+aapedroo: folds 
+gablabzmoney: folds 
+priidikas1: raises $0.20 to $0.30
+01WorldMoney: folds 
+thenatsman70: folds 
+Uncalled bet ($0.20) returned to priidikas1
+priidikas1 collected $0.25 from pot
+priidikas1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: priidikas1 (button) collected ($0.25)
+Seat 2: 01WorldMoney (small blind) folded before Flop
+Seat 3: thenatsman70 (big blind) folded before Flop
+Seat 4: Navking9 folded before Flop (didn't bet)
+Seat 5: aapedroo folded before Flop (didn't bet)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121848355:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:38:48 NZT [2024/04/22 21:38:48 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: agentsmith101 ($11.67 in chips) 
+Seat 2: sjh1215 ($14.50 in chips) 
+Seat 3: gablabzmoney ($13.64 in chips) 
+Seat 4: T0N_C0ST@ ($26.29 in chips) 
+Seat 5: chips_vitri ($7.59 in chips) 
+Seat 6: Falca_do_PS ($10 in chips) 
+sjh1215: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8d Qc]
+T0N_C0ST@: folds 
+chips_vitri: raises $0.25 to $0.35
+Falca_do_PS: folds 
+agentsmith101: folds 
+sjh1215: folds 
+gablabzmoney: folds 
+Uncalled bet ($0.25) returned to chips_vitri
+chips_vitri collected $0.25 from pot
+chips_vitri: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: agentsmith101 (button) folded before Flop (didn't bet)
+Seat 2: sjh1215 (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) folded before Flop
+Seat 4: T0N_C0ST@ folded before Flop (didn't bet)
+Seat 5: chips_vitri collected ($0.25)
+Seat 6: Falca_do_PS folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121850942:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:39:04 NZT [2024/04/22 21:39:04 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: ciceron86 ($12.78 in chips) 
+Seat 2: chips_vitri ($7.74 in chips) 
+Seat 3: aapedroo ($19.67 in chips) 
+Seat 4: Johero14 ($12.61 in chips) 
+Seat 5: gablabzmoney ($13.54 in chips) 
+Seat 6: kimboraver ($6.50 in chips) 
+chips_vitri: posts small blind $0.05
+aapedroo: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5c 4h]
+Johero14: folds 
+gablabzmoney: folds 
+kimboraver: folds 
+ciceron86: raises $0.15 to $0.25
+chips_vitri: folds 
+aapedroo: folds 
+Uncalled bet ($0.15) returned to ciceron86
+ciceron86 collected $0.25 from pot
+ciceron86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ciceron86 (button) collected ($0.25)
+Seat 2: chips_vitri (small blind) folded before Flop
+Seat 3: aapedroo (big blind) folded before Flop
+Seat 4: Johero14 folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: kimboraver folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121854022:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:39:23 NZT [2024/04/22 21:39:23 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sigmanolimit ($10 in chips) 
+Seat 2: Karaflas1 ($21.20 in chips) 
+Seat 3: DragonDC06 ($6.48 in chips) 
+Seat 4: gablabzmoney ($13.49 in chips) 
+Seat 5: nyanchuuuu ($10.15 in chips) 
+Seat 6: redblackbr ($9.77 in chips) 
+Karaflas1: posts small blind $0.05
+DragonDC06: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5d 4c]
+gablabzmoney: folds 
+nyanchuuuu: folds 
+redblackbr: folds 
+sigmanolimit: folds 
+Karaflas1: folds 
+Uncalled bet ($0.05) returned to DragonDC06
+DragonDC06 collected $0.10 from pot
+DragonDC06: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: sigmanolimit (button) folded before Flop (didn't bet)
+Seat 2: Karaflas1 (small blind) folded before Flop
+Seat 3: DragonDC06 (big blind) collected ($0.10)
+Seat 4: gablabzmoney folded before Flop (didn't bet)
+Seat 5: nyanchuuuu folded before Flop (didn't bet)
+Seat 6: redblackbr folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121851734:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:39:09 NZT [2024/04/22 21:39:09 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: mrln1251 ($5.43 in chips) 
+Seat 2: gablabzmoney ($13.54 in chips) 
+Seat 3: chips_vitri ($7.69 in chips) 
+Seat 4: ekimbrasilloko ($7.14 in chips) 
+Seat 5: TigerYear ($14.12 in chips) 
+Seat 6: mustallin ($41.93 in chips) 
+gablabzmoney: posts small blind $0.05
+chips_vitri: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5h Qc]
+ekimbrasilloko: folds 
+TigerYear: raises $0.20 to $0.30
+mustallin: folds 
+mrln1251: calls $0.30
+gablabzmoney: folds 
+chips_vitri: folds 
+*** FLOP *** [4c Qd Tc]
+TigerYear: bets $0.54
+mrln1251: raises $0.86 to $1.40
+TigerYear: folds 
+Uncalled bet ($0.86) returned to mrln1251
+mrln1251 collected $1.75 from pot
+mrln1251: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [4c Qd Tc]
+Seat 1: mrln1251 (button) collected ($1.75)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: chips_vitri (big blind) folded before Flop
+Seat 4: ekimbrasilloko folded before Flop (didn't bet)
+Seat 5: TigerYear folded on the Flop
+Seat 6: mustallin folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121855425:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:39:32 NZT [2024/04/22 21:39:32 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($13.49 in chips) 
+Seat 2: hiding.by ($12.79 in chips) 
+Seat 3: emeraldsrus ($3.48 in chips) 
+Seat 4: abbi555 ($9.51 in chips) 
+Seat 5: Shunmar ($10.27 in chips) 
+Seat 6: Cassim09 ($11.01 in chips) 
+hiding.by: posts small blind $0.05
+emeraldsrus: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Ts Td]
+abbi555: folds 
+Shunmar: folds 
+Cassim09: raises $0.15 to $0.25
+gablabzmoney: calls $0.25
+hiding.by: folds 
+emeraldsrus: raises $3.23 to $3.48 and is all-in
+Cassim09: folds 
+gablabzmoney: calls $3.23
+*** FLOP *** [5h 6d Jc]
+*** TURN *** [5h 6d Jc] [Jh]
+*** RIVER *** [5h 6d Jc Jh] [7s]
+*** SHOW DOWN ***
+emeraldsrus: shows [Qh Ad] (a pair of Jacks)
+gablabzmoney: shows [Ts Td] (two pair, Jacks and Tens)
+gablabzmoney collected $6.93 from pot
+*** SUMMARY ***
+Total pot $7.26 | Rake $0.33 
+Board [5h 6d Jc Jh 7s]
+Seat 1: gablabzmoney (button) showed [Ts Td] and won ($6.93) with two pair, Jacks and Tens
+Seat 2: hiding.by (small blind) folded before Flop
+Seat 3: emeraldsrus (big blind) showed [Qh Ad] and lost with a pair of Jacks
+Seat 4: abbi555 folded before Flop (didn't bet)
+Seat 5: Shunmar folded before Flop (didn't bet)
+Seat 6: Cassim09 folded before Flop
+
+
+
+PokerStars Zoom Hand #250121862032:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:40:12 NZT [2024/04/22 21:40:12 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: TigerYear ($11.39 in chips) 
+Seat 2: nyanchuuuu ($11.38 in chips) 
+Seat 3: hyttAAAAA ($19.16 in chips) 
+Seat 4: gablabzmoney ($16.94 in chips) 
+Seat 5: abbi555 ($10.64 in chips) 
+Seat 6: ciceron86 ($12.68 in chips) 
+nyanchuuuu: posts small blind $0.05
+hyttAAAAA: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [3s 8s]
+gablabzmoney: folds 
+abbi555: folds 
+ciceron86: folds 
+TigerYear: folds 
+nyanchuuuu: raises $0.20 to $0.30
+hyttAAAAA: folds 
+Uncalled bet ($0.20) returned to nyanchuuuu
+nyanchuuuu collected $0.20 from pot
+nyanchuuuu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: TigerYear (button) folded before Flop (didn't bet)
+Seat 2: nyanchuuuu (small blind) collected ($0.20)
+Seat 3: hyttAAAAA (big blind) folded before Flop
+Seat 4: gablabzmoney folded before Flop (didn't bet)
+Seat 5: abbi555 folded before Flop (didn't bet)
+Seat 6: ciceron86 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121862993:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:40:18 NZT [2024/04/22 21:40:18 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: beerdrinka666 ($14.86 in chips) 
+Seat 2: Wizarddude ($15.75 in chips) 
+Seat 3: aly_dinamo10 ($19.58 in chips) 
+Seat 4: thenatsman70 ($10.13 in chips) 
+Seat 5: o.tamotsu ($10 in chips) 
+Seat 6: gablabzmoney ($16.94 in chips) 
+Wizarddude: posts small blind $0.05
+aly_dinamo10: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8s 4s]
+thenatsman70: raises $0.15 to $0.25
+o.tamotsu: folds 
+gablabzmoney: folds 
+beerdrinka666: folds 
+Wizarddude: raises $0.60 to $0.85
+aly_dinamo10: folds 
+thenatsman70: calls $0.60
+*** FLOP *** [5d 5s 2c]
+Wizarddude: bets $1.25
+thenatsman70: raises $1.39 to $2.64
+Wizarddude: raises $12.26 to $14.90 and is all-in
+thenatsman70: folds 
+Uncalled bet ($12.26) returned to Wizarddude
+Wizarddude collected $6.76 from pot
+Wizarddude: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.08 | Rake $0.32 
+Board [5d 5s 2c]
+Seat 1: beerdrinka666 (button) folded before Flop (didn't bet)
+Seat 2: Wizarddude (small blind) collected ($6.76)
+Seat 3: aly_dinamo10 (big blind) folded before Flop
+Seat 4: thenatsman70 folded on the Flop
+Seat 5: o.tamotsu folded before Flop (didn't bet)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121865920:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:40:37 NZT [2024/04/22 21:40:37 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: felipejf20 ($5 in chips) 
+Seat 2: lucky7wlsrud ($13.65 in chips) 
+Seat 3: gablabzmoney ($16.89 in chips) 
+Seat 4: Shunmar ($10.17 in chips) 
+Seat 5: sjh1215 ($3.92 in chips) 
+Seat 6: slbatista ($5.18 in chips) 
+lucky7wlsrud: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jc 9c]
+Shunmar: raises $0.15 to $0.25
+sjh1215: calls $0.25
+slbatista: folds 
+felipejf20: folds 
+lucky7wlsrud: folds 
+gablabzmoney: calls $0.15
+*** FLOP *** [5h Td 3c]
+gablabzmoney: checks 
+Shunmar: checks 
+sjh1215: checks 
+*** TURN *** [5h Td 3c] [Js]
+gablabzmoney: checks 
+Shunmar: checks 
+sjh1215: checks 
+*** RIVER *** [5h Td 3c Js] [8s]
+gablabzmoney: checks 
+Shunmar: checks 
+sjh1215: checks 
+*** SHOW DOWN ***
+gablabzmoney: shows [Jc 9c] (a pair of Jacks)
+Shunmar: mucks hand 
+sjh1215: mucks hand 
+gablabzmoney collected $0.76 from pot
+*** SUMMARY ***
+Total pot $0.80 | Rake $0.04 
+Board [5h Td 3c Js 8s]
+Seat 1: felipejf20 (button) folded before Flop (didn't bet)
+Seat 2: lucky7wlsrud (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) showed [Jc 9c] and won ($0.76) with a pair of Jacks
+Seat 4: Shunmar mucked [6c 6s]
+Seat 5: sjh1215 mucked [8h Ad]
+Seat 6: slbatista folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121864281:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:40:26 NZT [2024/04/22 21:40:26 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aly_dinamo10 ($19.48 in chips) 
+Seat 2: gablabzmoney ($16.94 in chips) 
+Seat 3: xxjayjayxx ($10 in chips) 
+Seat 4: ciceron86 ($10.14 in chips) 
+Seat 5: beerdrinka666 ($14.86 in chips) 
+Seat 6: aapedroo ($26.42 in chips) 
+gablabzmoney: posts small blind $0.05
+xxjayjayxx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5h Kd]
+ciceron86: raises $0.15 to $0.25
+beerdrinka666: folds 
+aapedroo: raises $0.50 to $0.75
+aly_dinamo10: folds 
+gablabzmoney: folds 
+xxjayjayxx: folds 
+ciceron86: calls $0.50
+*** FLOP *** [6c Ks 8d]
+ciceron86: checks 
+aapedroo: bets $0.49
+ciceron86: calls $0.49
+*** TURN *** [6c Ks 8d] [7s]
+ciceron86: checks 
+aapedroo: checks 
+*** RIVER *** [6c Ks 8d 7s] [Ac]
+ciceron86: checks 
+aapedroo: checks 
+*** SHOW DOWN ***
+ciceron86: shows [9d 9c] (a pair of Nines)
+aapedroo: shows [Qs Qd] (a pair of Queens)
+aapedroo collected $2.51 from pot
+*** SUMMARY ***
+Total pot $2.63 | Rake $0.12 
+Board [6c Ks 8d 7s Ac]
+Seat 1: aly_dinamo10 (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: xxjayjayxx (big blind) folded before Flop
+Seat 4: ciceron86 showed [9d 9c] and lost with a pair of Nines
+Seat 5: beerdrinka666 folded before Flop (didn't bet)
+Seat 6: aapedroo showed [Qs Qd] and won ($2.51) with a pair of Queens
+
+
+
+PokerStars Zoom Hand #250121876233:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:41:41 NZT [2024/04/22 21:41:41 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($17.40 in chips) 
+Seat 2: priidikas1 ($4.57 in chips) 
+Seat 3: sjh1215 ($16.11 in chips) 
+Seat 4: ciceron86 ($11.83 in chips) 
+Seat 5: Navking9 ($10.87 in chips) 
+Seat 6: lucky7wlsrud ($23.38 in chips) 
+priidikas1: posts small blind $0.05
+sjh1215: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [4h 7c]
+ciceron86: folds 
+Navking9: folds 
+lucky7wlsrud: folds 
+gablabzmoney: folds 
+priidikas1: folds 
+Uncalled bet ($0.05) returned to sjh1215
+sjh1215 collected $0.10 from pot
+sjh1215: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: priidikas1 (small blind) folded before Flop
+Seat 3: sjh1215 (big blind) collected ($0.10)
+Seat 4: ciceron86 folded before Flop (didn't bet)
+Seat 5: Navking9 folded before Flop (didn't bet)
+Seat 6: lucky7wlsrud folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121878383:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:41:54 NZT [2024/04/22 21:41:54 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: lucky7wlsrud ($11.60 in chips) 
+Seat 2: TigerYear ($12.54 in chips) 
+Seat 3: Karaflas1 ($19.30 in chips) 
+Seat 4: sjh1215 ($19.68 in chips) 
+Seat 5: gablabzmoney ($17.40 in chips) 
+Seat 6: Cassim09 ($11.41 in chips) 
+TigerYear: posts small blind $0.05
+Karaflas1: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [4d 4h]
+sjh1215: folds 
+gablabzmoney: raises $0.14 to $0.24
+Cassim09: folds 
+lucky7wlsrud: folds 
+TigerYear: folds 
+Karaflas1: raises $0.76 to $1
+gablabzmoney: calls $0.76
+*** FLOP *** [5s 9d 3h]
+Karaflas1: checks 
+gablabzmoney: checks 
+*** TURN *** [5s 9d 3h] [7s]
+Karaflas1: checks 
+gablabzmoney: bets $0.49
+Karaflas1: calls $0.49
+*** RIVER *** [5s 9d 3h 7s] [Ac]
+Karaflas1: bets $0.80
+gablabzmoney: folds 
+Uncalled bet ($0.80) returned to Karaflas1
+Karaflas1 collected $2.89 from pot
+Karaflas1: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.03 | Rake $0.14 
+Board [5s 9d 3h 7s Ac]
+Seat 1: lucky7wlsrud (button) folded before Flop (didn't bet)
+Seat 2: TigerYear (small blind) folded before Flop
+Seat 3: Karaflas1 (big blind) collected ($2.89)
+Seat 4: sjh1215 folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded on the River
+Seat 6: Cassim09 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121891491:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:43:16 NZT [2024/04/22 21:43:16 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: pedransapato ($13.81 in chips) 
+Seat 2: CharlieYu ($12.85 in chips) 
+Seat 3: PauloDaPerca ($24.71 in chips) 
+Seat 4: gablabzmoney ($15.91 in chips) 
+Seat 5: kimboraver ($5.35 in chips) 
+Seat 6: Shunmar ($10.99 in chips) 
+CharlieYu: posts small blind $0.05
+PauloDaPerca: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8s 3h]
+gablabzmoney: folds 
+kimboraver: folds 
+Shunmar: folds 
+pedransapato: folds 
+CharlieYu: raises $0.20 to $0.30
+PauloDaPerca: folds 
+Uncalled bet ($0.20) returned to CharlieYu
+CharlieYu collected $0.20 from pot
+CharlieYu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: pedransapato (button) folded before Flop (didn't bet)
+Seat 2: CharlieYu (small blind) collected ($0.20)
+Seat 3: PauloDaPerca (big blind) folded before Flop
+Seat 4: gablabzmoney folded before Flop (didn't bet)
+Seat 5: kimboraver folded before Flop (didn't bet)
+Seat 6: Shunmar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121890873:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:43:12 NZT [2024/04/22 21:43:12 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Bronzalo IV ($4.62 in chips) 
+Seat 2: abbi555 ($10.54 in chips) 
+Seat 3: lucky7wlsrud ($10 in chips) 
+Seat 4: dt_bhs ($15.16 in chips) 
+Seat 5: Cassim09 ($10.20 in chips) 
+Seat 6: gablabzmoney ($15.91 in chips) 
+abbi555: posts small blind $0.05
+lucky7wlsrud: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5s 2s]
+dt_bhs: folds 
+Cassim09: raises $0.15 to $0.25
+gablabzmoney: folds 
+Bronzalo IV: folds 
+abbi555: calls $0.20
+lucky7wlsrud: calls $0.15
+*** FLOP *** [5d 4c 8s]
+abbi555: checks 
+lucky7wlsrud: checks 
+Cassim09: checks 
+*** TURN *** [5d 4c 8s] [9h]
+abbi555: bets $0.40
+lucky7wlsrud: folds 
+Cassim09: folds 
+Uncalled bet ($0.40) returned to abbi555
+abbi555 collected $0.71 from pot
+abbi555: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.04 
+Board [5d 4c 8s 9h]
+Seat 1: Bronzalo IV (button) folded before Flop (didn't bet)
+Seat 2: abbi555 (small blind) collected ($0.71)
+Seat 3: lucky7wlsrud (big blind) folded on the Turn
+Seat 4: dt_bhs folded before Flop (didn't bet)
+Seat 5: Cassim09 folded on the Turn
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121892306:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:43:21 NZT [2024/04/22 21:43:21 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: mrln1251 ($5 in chips) 
+Seat 2: gablabzmoney ($15.91 in chips) 
+Seat 3: Escu76 ($9.08 in chips) 
+Seat 4: Navking9 ($11.02 in chips) 
+Seat 5: TigerYear ($13.32 in chips) 
+Seat 6: Shunmar ($10.03 in chips) 
+gablabzmoney: posts small blind $0.05
+Escu76: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [As 8s]
+Navking9: folds 
+TigerYear: folds 
+Shunmar: folds 
+mrln1251: folds 
+gablabzmoney: raises $0.20 to $0.30
+Escu76: calls $0.20
+*** FLOP *** [Qd 2s 6c]
+gablabzmoney: checks 
+Escu76: checks 
+*** TURN *** [Qd 2s 6c] [8c]
+gablabzmoney: checks 
+Escu76: bets $0.20
+gablabzmoney: calls $0.20
+*** RIVER *** [Qd 2s 6c 8c] [7h]
+gablabzmoney: checks 
+Escu76: bets $0.68
+gablabzmoney: calls $0.68
+*** SHOW DOWN ***
+Escu76: shows [Qc Tc] (a pair of Queens)
+gablabzmoney: mucks hand 
+Escu76 collected $2.25 from pot
+*** SUMMARY ***
+Total pot $2.36 | Rake $0.11 
+Board [Qd 2s 6c 8c 7h]
+Seat 1: mrln1251 (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) mucked [As 8s]
+Seat 3: Escu76 (big blind) showed [Qc Tc] and won ($2.25) with a pair of Queens
+Seat 4: Navking9 folded before Flop (didn't bet)
+Seat 5: TigerYear folded before Flop (didn't bet)
+Seat 6: Shunmar folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121899514:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:44:06 NZT [2024/04/22 21:44:06 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Escu76 ($10.15 in chips) 
+Seat 2: xxjayjayxx ($10 in chips) 
+Seat 3: gablabzmoney ($14.73 in chips) 
+Seat 4: grintsov99 ($10 in chips) 
+Seat 5: redblackbr ($8.39 in chips) 
+Seat 6: hyttAAAAA ($18.70 in chips) 
+xxjayjayxx: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [As 6s]
+grintsov99: folds 
+redblackbr: folds 
+hyttAAAAA: folds 
+Escu76: raises $0.10 to $0.20
+xxjayjayxx: folds 
+gablabzmoney: calls $0.10
+*** FLOP *** [2d Js 5d]
+gablabzmoney: checks 
+Escu76: bets $0.22
+gablabzmoney: folds 
+Uncalled bet ($0.22) returned to Escu76
+Escu76 collected $0.43 from pot
+Escu76: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [2d Js 5d]
+Seat 1: Escu76 (button) collected ($0.43)
+Seat 2: xxjayjayxx (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) folded on the Flop
+Seat 4: grintsov99 folded before Flop (didn't bet)
+Seat 5: redblackbr folded before Flop (didn't bet)
+Seat 6: hyttAAAAA folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121904100:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:44:35 NZT [2024/04/22 21:44:35 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($14.53 in chips) 
+Seat 2: Cassim09 ($11.46 in chips) 
+Seat 3: KeviBear ($10.30 in chips) 
+Seat 4: T0N_C0ST@ ($24.31 in chips) 
+Seat 5: DragonDC06 ($8.27 in chips) 
+Seat 6: lilgreengiant ($11.35 in chips) 
+Cassim09: posts small blind $0.05
+KeviBear: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jd 8d]
+T0N_C0ST@ has timed out
+T0N_C0ST@: folds 
+DragonDC06: folds 
+lilgreengiant: folds 
+gablabzmoney: raises $0.14 to $0.24
+Cassim09: folds 
+KeviBear: calls $0.14
+*** FLOP *** [6d Js Ts]
+KeviBear: bets $0.30
+gablabzmoney: calls $0.30
+*** TURN *** [6d Js Ts] [Ad]
+KeviBear: bets $0.54
+gablabzmoney: calls $0.54
+*** RIVER *** [6d Js Ts Ad] [Qc]
+KeviBear: bets $2.06
+gablabzmoney: folds 
+Uncalled bet ($2.06) returned to KeviBear
+KeviBear collected $2.11 from pot
+KeviBear: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.10 
+Board [6d Js Ts Ad Qc]
+Seat 1: gablabzmoney (button) folded on the River
+Seat 2: Cassim09 (small blind) folded before Flop
+Seat 3: KeviBear (big blind) collected ($2.11)
+Seat 4: T0N_C0ST@ folded before Flop (didn't bet)
+Seat 5: DragonDC06 folded before Flop (didn't bet)
+Seat 6: lilgreengiant folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121914467:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:45:39 NZT [2024/04/22 21:45:39 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: nyanchuuuu ($10 in chips) 
+Seat 2: felipejf20 ($5 in chips) 
+Seat 3: lilgreengiant ($11.56 in chips) 
+Seat 4: gablabzmoney ($13.45 in chips) 
+Seat 5: bluffshin ($10.52 in chips) 
+Seat 6: WCamejo1 ($10 in chips) 
+felipejf20: posts small blind $0.05
+lilgreengiant: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Ks 7c]
+gablabzmoney: raises $0.14 to $0.24
+bluffshin: folds 
+WCamejo1: folds 
+nyanchuuuu: folds 
+felipejf20: folds 
+lilgreengiant: folds 
+Uncalled bet ($0.14) returned to gablabzmoney
+gablabzmoney collected $0.25 from pot
+gablabzmoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: nyanchuuuu (button) folded before Flop (didn't bet)
+Seat 2: felipejf20 (small blind) folded before Flop
+Seat 3: lilgreengiant (big blind) folded before Flop
+Seat 4: gablabzmoney collected ($0.25)
+Seat 5: bluffshin folded before Flop (didn't bet)
+Seat 6: WCamejo1 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121913662:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:45:34 NZT [2024/04/22 21:45:34 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: lucky7wlsrud ($10.86 in chips) 
+Seat 2: aapedroo ($19.90 in chips) 
+Seat 3: redblackbr ($7.74 in chips) 
+Seat 4: NoskillDeclan ($5.26 in chips) 
+Seat 5: gablabzmoney ($13.45 in chips) 
+Seat 6: ciceron86 ($10.12 in chips) 
+aapedroo: posts small blind $0.05
+redblackbr: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [2c Js]
+NoskillDeclan: folds 
+gablabzmoney: folds 
+ciceron86: raises $0.15 to $0.25
+lucky7wlsrud: folds 
+aapedroo: folds 
+redblackbr: calls $0.15
+*** FLOP *** [2s Jd Tc]
+redblackbr: bets $0.27
+ciceron86: calls $0.27
+*** TURN *** [2s Jd Tc] [5h]
+redblackbr: bets $0.52
+ciceron86: calls $0.52
+*** RIVER *** [2s Jd Tc 5h] [8d]
+redblackbr: bets $0.90
+ciceron86: calls $0.90
+*** SHOW DOWN ***
+redblackbr: shows [9s Jc] (a pair of Jacks)
+ciceron86: shows [Qd Jh] (a pair of Jacks - Queen kicker)
+ciceron86 collected $3.75 from pot
+*** SUMMARY ***
+Total pot $3.93 | Rake $0.18 
+Board [2s Jd Tc 5h 8d]
+Seat 1: lucky7wlsrud (button) folded before Flop (didn't bet)
+Seat 2: aapedroo (small blind) folded before Flop
+Seat 3: redblackbr (big blind) showed [9s Jc] and lost with a pair of Jacks
+Seat 4: NoskillDeclan folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: ciceron86 showed [Qd Jh] and won ($3.75) with a pair of Jacks
+
+
+
+PokerStars Zoom Hand #250121916661:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:45:54 NZT [2024/04/22 21:45:54 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: sjh1215 ($15.95 in chips) 
+Seat 2: nyanchuuuu ($13.65 in chips) 
+Seat 3: Cassim09 ($11.12 in chips) 
+Seat 4: lucky7wlsrud ($11.41 in chips) 
+Seat 5: gablabzmoney ($13.60 in chips) 
+Seat 6: Escu76 ($10.08 in chips) 
+nyanchuuuu: posts small blind $0.05
+Cassim09: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Jh 5d]
+lucky7wlsrud: folds 
+gablabzmoney: folds 
+Escu76: folds 
+sjh1215: folds 
+nyanchuuuu: raises $0.20 to $0.30
+Cassim09: folds 
+Uncalled bet ($0.20) returned to nyanchuuuu
+nyanchuuuu collected $0.20 from pot
+nyanchuuuu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: sjh1215 (button) folded before Flop (didn't bet)
+Seat 2: nyanchuuuu (small blind) collected ($0.20)
+Seat 3: Cassim09 (big blind) folded before Flop
+Seat 4: lucky7wlsrud folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: Escu76 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121917580:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:46:00 NZT [2024/04/22 21:46:00 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: agentsmith101 ($10.59 in chips) 
+Seat 2: gablabzmoney ($13.60 in chips) 
+Seat 3: HerrMischopff ($10 in chips) 
+Seat 4: Escu76 ($10.08 in chips) 
+Seat 5: TigerYear ($10.50 in chips) 
+Seat 6: CharlieYu ($16.05 in chips) 
+gablabzmoney: posts small blind $0.05
+HerrMischopff: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Ts 8h]
+Escu76: raises $0.10 to $0.20
+TigerYear: folds 
+CharlieYu: folds 
+agentsmith101: folds 
+gablabzmoney: folds 
+HerrMischopff: folds 
+Uncalled bet ($0.10) returned to Escu76
+Escu76 collected $0.25 from pot
+Escu76: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: agentsmith101 (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: HerrMischopff (big blind) folded before Flop
+Seat 4: Escu76 collected ($0.25)
+Seat 5: TigerYear folded before Flop (didn't bet)
+Seat 6: CharlieYu folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121919347:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:46:10 NZT [2024/04/22 21:46:10 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: felipejf20 ($5 in chips) 
+Seat 2: NoskillDeclan ($5.16 in chips) 
+Seat 3: gablabzmoney ($13.55 in chips) 
+Seat 4: Navking9 ($19.59 in chips) 
+Seat 5: TigerYear ($10.50 in chips) 
+Seat 6: Shunmar ($10.86 in chips) 
+NoskillDeclan: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [7c 9c]
+Navking9: folds 
+TigerYear: folds 
+Shunmar: raises $0.15 to $0.25
+felipejf20: folds 
+NoskillDeclan: folds 
+gablabzmoney: calls $0.15
+*** FLOP *** [7d Th Qd]
+gablabzmoney: checks 
+Shunmar: bets $0.29
+gablabzmoney: calls $0.29
+*** TURN *** [7d Th Qd] [2d]
+gablabzmoney: checks 
+Shunmar: checks 
+*** RIVER *** [7d Th Qd 2d] [6c]
+gablabzmoney: checks 
+Shunmar: checks 
+*** SHOW DOWN ***
+gablabzmoney: shows [7c 9c] (a pair of Sevens)
+Shunmar: mucks hand 
+gablabzmoney collected $1.08 from pot
+*** SUMMARY ***
+Total pot $1.13 | Rake $0.05 
+Board [7d Th Qd 2d 6c]
+Seat 1: felipejf20 (button) folded before Flop (didn't bet)
+Seat 2: NoskillDeclan (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) showed [7c 9c] and won ($1.08) with a pair of Sevens
+Seat 4: Navking9 folded before Flop (didn't bet)
+Seat 5: TigerYear folded before Flop (didn't bet)
+Seat 6: Shunmar mucked [9d As]
+
+
+
+PokerStars Zoom Hand #250121925298:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:46:49 NZT [2024/04/22 21:46:49 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($14.09 in chips) 
+Seat 2: sjh1215 ($14.96 in chips) 
+Seat 3: 01WorldMoney ($20.91 in chips) 
+Seat 4: NoskillDeclan ($5.01 in chips) 
+Seat 5: Shunmar ($10.32 in chips) 
+Seat 6: lucky7wlsrud ($29.01 in chips) 
+sjh1215: posts small blind $0.05
+01WorldMoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8c 6h]
+NoskillDeclan: folds 
+Shunmar: folds 
+lucky7wlsrud: folds 
+gablabzmoney: folds 
+sjh1215: folds 
+Uncalled bet ($0.05) returned to 01WorldMoney
+01WorldMoney collected $0.10 from pot
+01WorldMoney: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop (didn't bet)
+Seat 2: sjh1215 (small blind) folded before Flop
+Seat 3: 01WorldMoney (big blind) collected ($0.10)
+Seat 4: NoskillDeclan folded before Flop (didn't bet)
+Seat 5: Shunmar folded before Flop (didn't bet)
+Seat 6: lucky7wlsrud folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121926130:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:46:54 NZT [2024/04/22 21:46:54 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aapedroo ($20.44 in chips) 
+Seat 2: o.tamotsu ($11.25 in chips) 
+Seat 3: bluffshin ($11.61 in chips) 
+Seat 4: NoskillDeclan ($5.01 in chips) 
+Seat 5: martinsampa ($14.31 in chips) 
+Seat 6: gablabzmoney ($14.09 in chips) 
+o.tamotsu: posts small blind $0.05
+bluffshin: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [6d 5s]
+NoskillDeclan: folds 
+martinsampa: raises $0.20 to $0.30
+gablabzmoney: folds 
+aapedroo: folds 
+o.tamotsu: folds 
+bluffshin: folds 
+Uncalled bet ($0.20) returned to martinsampa
+martinsampa collected $0.25 from pot
+martinsampa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: aapedroo (button) folded before Flop (didn't bet)
+Seat 2: o.tamotsu (small blind) folded before Flop
+Seat 3: bluffshin (big blind) folded before Flop
+Seat 4: NoskillDeclan folded before Flop (didn't bet)
+Seat 5: martinsampa collected ($0.25)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121927496:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:02 NZT [2024/04/22 21:47:02 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: HerrMischopff ($9.70 in chips) 
+Seat 2: swokcorp ($10.05 in chips) 
+Seat 3: Cassim09 ($12.46 in chips) 
+Seat 4: iSergantos ($10.40 in chips) 
+Seat 5: gablabzmoney ($14.09 in chips) 
+Seat 6: aapedroo ($10.73 in chips) 
+swokcorp: posts small blind $0.05
+Cassim09: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [5s Ks]
+iSergantos: folds 
+gablabzmoney: folds 
+aapedroo: raises $0.15 to $0.25
+HerrMischopff: folds 
+swokcorp: folds 
+Cassim09: folds 
+Uncalled bet ($0.15) returned to aapedroo
+aapedroo collected $0.25 from pot
+aapedroo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: HerrMischopff (button) folded before Flop (didn't bet)
+Seat 2: swokcorp (small blind) folded before Flop
+Seat 3: Cassim09 (big blind) folded before Flop
+Seat 4: iSergantos folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: aapedroo collected ($0.25)
+
+
+
+PokerStars Zoom Hand #250121928453:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:09 NZT [2024/04/22 21:47:09 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Falca_do_PS ($12.94 in chips) 
+Seat 2: aapedroo ($20.44 in chips) 
+Seat 3: Cassim09 ($10 in chips) 
+Seat 4: beerdrinka666 ($14.89 in chips) 
+Seat 5: TigerYear ($13.54 in chips) 
+Seat 6: gablabzmoney ($14.09 in chips) 
+aapedroo: posts small blind $0.05
+Cassim09: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [3c 8h]
+beerdrinka666: calls $0.10
+TigerYear: raises $0.35 to $0.45
+gablabzmoney: folds 
+Falca_do_PS: folds 
+aapedroo: folds 
+Cassim09: folds 
+beerdrinka666: folds 
+Uncalled bet ($0.35) returned to TigerYear
+TigerYear collected $0.35 from pot
+TigerYear: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Falca_do_PS (button) folded before Flop (didn't bet)
+Seat 2: aapedroo (small blind) folded before Flop
+Seat 3: Cassim09 (big blind) folded before Flop
+Seat 4: beerdrinka666 folded before Flop
+Seat 5: TigerYear collected ($0.35)
+Seat 6: gablabzmoney folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121929103:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:13 NZT [2024/04/22 21:47:13 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: martinsampa ($14.46 in chips) 
+Seat 2: Falca_do_PS ($12.94 in chips) 
+Seat 3: gablabzmoney ($14.09 in chips) 
+Seat 4: BPMachado ($10.19 in chips) 
+Seat 5: Ki55 ma Ace ($10.33 in chips) 
+Seat 6: Philipusis ($7.11 in chips) 
+Falca_do_PS: posts small blind $0.05
+gablabzmoney: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Td 3c]
+BPMachado: folds 
+Ki55 ma Ace: folds 
+Philipusis: raises $0.40 to $0.50
+martinsampa: folds 
+Falca_do_PS: folds 
+gablabzmoney: folds 
+Uncalled bet ($0.40) returned to Philipusis
+Philipusis collected $0.25 from pot
+Philipusis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: martinsampa (button) folded before Flop (didn't bet)
+Seat 2: Falca_do_PS (small blind) folded before Flop
+Seat 3: gablabzmoney (big blind) folded before Flop
+Seat 4: BPMachado folded before Flop (didn't bet)
+Seat 5: Ki55 ma Ace folded before Flop (didn't bet)
+Seat 6: Philipusis collected ($0.25)
+
+
+
+PokerStars Zoom Hand #250121932139:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:32 NZT [2024/04/22 21:47:32 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: aapedroo ($18.82 in chips) 
+Seat 2: gablabzmoney ($13.99 in chips) 
+Seat 3: TigerYear ($11.20 in chips) 
+Seat 4: ciceron86 ($11.50 in chips) 
+Seat 5: Falca_do_PS ($12.89 in chips) 
+Seat 6: Navking9 ($10.05 in chips) 
+gablabzmoney: posts small blind $0.05
+TigerYear: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [8h Ks]
+ciceron86: raises $0.15 to $0.25
+Falca_do_PS: folds 
+Navking9: folds 
+aapedroo: folds 
+gablabzmoney: folds 
+TigerYear: folds 
+Uncalled bet ($0.15) returned to ciceron86
+ciceron86 collected $0.25 from pot
+ciceron86: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: aapedroo (button) folded before Flop (didn't bet)
+Seat 2: gablabzmoney (small blind) folded before Flop
+Seat 3: TigerYear (big blind) folded before Flop
+Seat 4: ciceron86 collected ($0.25)
+Seat 5: Falca_do_PS folded before Flop (didn't bet)
+Seat 6: Navking9 folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121933102:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:38 NZT [2024/04/22 21:47:38 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Escu76 ($9.30 in chips) 
+Seat 2: lucky7wlsrud ($12.56 in chips) 
+Seat 3: Falca_do_PS ($11.40 in chips) 
+Seat 4: Navking9 ($10.05 in chips) 
+Seat 5: gablabzmoney ($13.94 in chips) 
+Seat 6: xxjayjayxx ($10 in chips) 
+lucky7wlsrud: posts small blind $0.05
+Falca_do_PS: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [4s 2c]
+Navking9: folds 
+gablabzmoney: folds 
+xxjayjayxx: folds 
+Escu76: raises $0.10 to $0.20
+lucky7wlsrud: raises $0.60 to $0.80
+Falca_do_PS: folds 
+Escu76: folds 
+Uncalled bet ($0.60) returned to lucky7wlsrud
+lucky7wlsrud collected $0.50 from pot
+lucky7wlsrud: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Escu76 (button) folded before Flop
+Seat 2: lucky7wlsrud (small blind) collected ($0.50)
+Seat 3: Falca_do_PS (big blind) folded before Flop
+Seat 4: Navking9 folded before Flop (didn't bet)
+Seat 5: gablabzmoney folded before Flop (didn't bet)
+Seat 6: xxjayjayxx folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121934051:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:47:44 NZT [2024/04/22 21:47:44 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: gablabzmoney ($13.94 in chips) 
+Seat 2: iSergantos ($10.45 in chips) 
+Seat 3: Navking9 ($10.05 in chips) 
+Seat 4: abbi555 ($10.60 in chips) 
+Seat 5: jeeh br ($11.52 in chips) 
+Seat 6: TigerYear ($11.10 in chips) 
+iSergantos: posts small blind $0.05
+Navking9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [Qc Ts]
+abbi555: folds 
+jeeh br: raises $0.10 to $0.20
+TigerYear: folds 
+gablabzmoney: raises $0.50 to $0.70
+iSergantos: folds 
+Navking9: folds 
+jeeh br: raises $10.82 to $11.52 and is all-in
+gablabzmoney: folds 
+Uncalled bet ($10.82) returned to jeeh br
+jeeh br collected $1.55 from pot
+jeeh br: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0 
+Seat 1: gablabzmoney (button) folded before Flop
+Seat 2: iSergantos (small blind) folded before Flop
+Seat 3: Navking9 (big blind) folded before Flop
+Seat 4: abbi555 folded before Flop (didn't bet)
+Seat 5: jeeh br collected ($1.55)
+Seat 6: TigerYear folded before Flop (didn't bet)
+
+
+
+PokerStars Zoom Hand #250121938052:  Hold'em No Limit ($0.05/$0.10) - 2024/04/23 13:48:09 NZT [2024/04/22 21:48:09 ET]
+Table 'Aludra' 6-max Seat #1 is the button
+Seat 1: Cassim09 ($10.10 in chips) 
+Seat 2: aapedroo ($18.36 in chips) 
+Seat 3: Ki55 ma Ace ($10.18 in chips) 
+Seat 4: redblackbr ($6.78 in chips) 
+Seat 5: abbi555 ($10.60 in chips) 
+Seat 6: gablabzmoney ($13.24 in chips) 
+aapedroo: posts small blind $0.05
+Ki55 ma Ace: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to gablabzmoney [9s Ts]
+redblackbr: folds 
+abbi555: folds 
+gablabzmoney: raises $0.14 to $0.24
+Cassim09: folds 
+aapedroo: folds 
+Ki55 ma Ace: raises $0.86 to $1.10
+gablabzmoney: calls $0.86
+*** FLOP *** [9h 5d 5s]
+Ki55 ma Ace: bets $0.54
+gablabzmoney: calls $0.54
+*** TURN *** [9h 5d 5s] [8d]
+Ki55 ma Ace: bets $1.05
+gablabzmoney: calls $1.05
+*** RIVER *** [9h 5d 5s 8d] [Ah]
+Ki55 ma Ace: checks 
+gablabzmoney: checks 
+*** SHOW DOWN ***
+Ki55 ma Ace: shows [Kc Ks] (two pair, Kings and Fives)
+gablabzmoney: mucks hand 
+Ki55 ma Ace collected $5.19 from pot
+*** SUMMARY ***
+Total pot $5.43 | Rake $0.24 
+Board [9h 5d 5s 8d Ah]
+Seat 1: Cassim09 (button) folded before Flop (didn't bet)
+Seat 2: aapedroo (small blind) folded before Flop
+Seat 3: Ki55 ma Ace (big blind) showed [Kc Ks] and won ($5.19) with two pair, Kings and Fives
+Seat 4: redblackbr folded before Flop (didn't bet)
+Seat 5: abbi555 folded before Flop (didn't bet)
+Seat 6: gablabzmoney mucked [9s Ts]
+
+
+
