@@ -59,6 +59,17 @@ def player_stacks(hand_text: str) -> list[float]:
         raise Exception("Could not find player stacks")
 
 
+def get_posts(hand_text: str) -> list[tuple[str, float]]:
+    matches = re.findall(r'(.*): posts (small blind|big blind|the ante) \$?([\d.]+)', hand_text)
+    posts = []
+    if len(matches) > 0:
+        for player_name, _, posted_amount in matches:
+            posts.append((player_name, float(posted_amount)))
+        return posts
+    else:
+        raise Exception("Could not find any posts")
+
+
 def actions(hand_text: str) -> list[tuple[str, str, float]]:
     # Return format is [(player_name, action_type, action_size), ...]'
     # The use of a letter for action types is standard in the poker community
@@ -159,8 +170,16 @@ def get_collectors(hand_text: str) -> list[tuple[str, float]]:
     if len(matches) > 0:
         collectors = []
         for match in matches:
-            collectors.append((match[0], match[1]))
+            collectors.append((match[0], float(match[1])))
         return collectors
     else:
         raise Exception("Could not find collectors")
 
+
+def uncalled_bet(hand_text: str) -> tuple[str, float]:
+    # Return format: player_name, amount_returned
+    matches = re.findall(r'Uncalled bet \(\$([\d.]+)\) returned to (.*)', hand_text)
+    if len(matches) == 1:
+        return matches[0][1], float(matches[0][0])
+    else:
+        raise Exception("No uncalled bet were found")
