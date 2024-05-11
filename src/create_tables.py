@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     create_hand_table = """
     CREATE TABLE hand (
-        hand_id INT PRIMARY KEY,
+        hand_id CHAR(12) PRIMARY KEY,
         datetime DATETIME NOT NULL,
         button INT NOT NULL,
         small_blind FLOAT NOT NULL,
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     create_participant_table = """
     CREATE TABLE participant (
         name VARCHAR(40),
-        hand_id INT,
+        hand_id CHAR(12),
         starting_stack FLOAT NOT NULL,
         ending_stack FLOAT NOT NULL,
         PRIMARY KEY (name, hand_id)
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 
     create_action_table = """
     CREATE TABLE action (
-        hand_id INT,
+        hand_id CHAR(12),
         action_number INT,
         player_name VARCHAR(40) NOT NULL,
         type CHAR(1) NOT NULL,
@@ -75,17 +75,18 @@ if __name__ == "__main__":
 
     create_post_table = """
     CREATE TABLE post (
-        post_number INT PRIMARY KEY,
-        hand_id INT NOT NULL,
+        post_number INT,
+        hand_id CHAR(12),
         player_name VARCHAR(40) NOT NULL,
         type VARCHAR(4) NOT NULL,
-        size FLOAT NOT NULL
+        size FLOAT NOT NULL,
+        PRIMARY KEY (hand_id, post_number)
         );
     """
 
     create_cards_table = """
     CREATE TABLE cards (
-        hand_id INT,
+        hand_id CHAR(12),
         player_name VARCHAR(40),
         card_1 CHAR(2) NOT NULL,
         card_2 CHAR(2) NOT NULL,
