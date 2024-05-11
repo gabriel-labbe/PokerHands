@@ -10,7 +10,7 @@ def execute_query(connection, query, val):
         cursor.execute(query, val)
         connection.commit()
     except Error as err:
-        print(f"Error: '{err}'")
+        pass
 
 
 def populate_db(connection, hand_history: str) -> None:

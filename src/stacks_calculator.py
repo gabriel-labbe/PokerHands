@@ -1,4 +1,4 @@
-from hand_parser import player_names, starting_stacks, actions, get_collectors, uncalled_bet, get_posts
+from hand_parser import player_names, starting_stacks, actions, get_collectors, uncalled_bet, get_posts, get_cash_outs
 import pandas as pd
 
 
@@ -55,6 +55,7 @@ def add_uncalled_bets_to_stacks(hand_history: str, status: pd.DataFrame) -> pd.D
 
 def add_chips_to_winners(hand_history: str, status: pd.DataFrame) -> pd.DataFrame:
     collectors = get_collectors(hand_history)
-    for name, amount in collectors:
+    cash_outs = get_cash_outs(hand_history)
+    for name, amount in collectors + cash_outs:
         status.loc[status['name'] == name, "stack"] += amount
     return status

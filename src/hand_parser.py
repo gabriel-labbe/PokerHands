@@ -2,9 +2,9 @@ import re
 
 
 def extract_hands_from_zoom_file(file_name: str) -> list[str]:
-    with open(file_name) as f:
+    with open(file_name, encoding='utf8') as f:
         text = f.read()
-        return text.split("\n\n\n\n")
+        return text.split("\n\n\n\n\n\n")
 
 
 def hand_id(hand_history: str) -> str:
@@ -16,7 +16,7 @@ def hand_id(hand_history: str) -> str:
 
 
 def get_datetime(hand_history: str) -> str:
-    match = re.search(r'(\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2}) ET', hand_history)
+    match = re.search(r'(\d{4}/\d{2}/\d{2} \d{1,2}:\d{2}:\d{2}) ET', hand_history)
     if match:
         return match.group(1).replace('/', '-')
     else:
@@ -175,13 +175,22 @@ def rake(hand_history: str) -> float:
 def get_collectors(hand_history: str) -> list[tuple[str, float]]:
     # Return format: [(player_name, amount_won), ...]
     matches = re.findall(r'(.+) collected \$?([\d.]+)', hand_history)
+    collectors = []
     if len(matches) > 0:
-        collectors = []
         for match in matches:
             collectors.append((match[0], float(match[1])))
-        return collectors
-    else:
-        raise Exception("Could not find collectors")
+    return collectors
+
+
+def get_cash_outs(hand_history: str) -> list[tuple[str, float]]:
+    # Return format: [(player_name, amount_won), ...]
+    matches = re.findall(r'(.+) cashed out the hand for \$?([\d.]+)', hand_history)
+    cash_outs = []
+    if len(matches) > 0:
+        for match in matches:
+            cash_outs.append((match[0], float(match[1])))
+        return cash_outs
+    return cash_outs
 
 
 def uncalled_bet(hand_history: str) -> tuple[str, float]:
