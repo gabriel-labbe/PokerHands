@@ -8,19 +8,18 @@ def extract_hands_from_zoom_file(file_name: str) -> list[str]:
         return text.split("\n\n\n\n")
 
 
-def hand_id(hand_text: str) -> str:
+def hand_id(hand_text: str) -> int:
     matches = re.findall(r'Hand #(\d+):', hand_text)
     if len(matches) == 1:
-        return matches[0]
+        return int(matches[0])
     else:
         raise Exception("Could not find hand id")
 
 
-def get_datetime(hand_text: str) -> datetime:
-    match = re.search(r'(\d{4})/(\d{2})/(\d{2}) (\d{2}):(\d{2}):(\d{2}) ET', hand_text)
+def get_datetime(hand_text: str) -> str:
+    match = re.search(r'(\d{4}/\d{2}/\d{2} \d{2}:\d{2}:\d{2}) ET', hand_text)
     if match:
-        return datetime.datetime(match.group(0), match.group(1), match.group(2), match.group(3), match.group(4),
-                                 match.group(5))
+        return match.group(1).replace('/', '-')
     else:
         raise Exception("Could not find the datetime")
 
@@ -51,7 +50,7 @@ def blind_level(hand_text: str) -> tuple[float, float]:
         raise Exception("Could not find blind level")
 
 
-def player_stacks(hand_text: str) -> list[float]:
+def starting_stacks(hand_text: str) -> list[float]:
     stacks = re.findall(r'Seat \d+: .+ \(\$(.+) in chips\)', hand_text)
     if len(stacks) > 1:
         return [float(stack) for stack in stacks]
@@ -59,19 +58,21 @@ def player_stacks(hand_text: str) -> list[float]:
         raise Exception("Could not find player stacks")
 
 
-def get_posts(hand_text: str) -> list[tuple[str, float]]:
+def get_posts(hand_text: str) -> list[tuple[str, str, float]]:
+    post_types = {'the ante': 'ante',
+                  'small blind': 'sb',
+                  'big blind': 'bb'}
     matches = re.findall(r'(.*): posts (small blind|big blind|the ante) \$?([\d.]+)', hand_text)
     posts = []
     if len(matches) > 0:
-        for player_name, _, posted_amount in matches:
-            posts.append((player_name, float(posted_amount)))
+        for player_name, post_type, posted_amount in matches:
+            posts.append((player_name, post_types[post_type], float(posted_amount)))
         return posts
     else:
         raise Exception("Could not find any posts")
 
 
 def actions(hand_text: str) -> list[tuple[str, str, float]]:
-    # Return format is [(player_name, action_type, action_size), ...]'
     # The use of a letter for action types is standard in the poker community
     action_types = {'folds': 'F',
                     'checks': 'X',
@@ -86,39 +87,39 @@ def actions(hand_text: str) -> list[tuple[str, str, float]]:
             action_type = action_types[match[1]]
             if match[2] == '':
                 # Set the size to 0 for actions 'folds' and 'checks'
-                size = 0
+                action_size = 0
             else:
-                size = float(match[2])
-            formatted_actions.append((player_name, action_type, size))
+                action_size = float(match[2])
+            formatted_actions.append((player_name, action_type, action_size))
         return formatted_actions
     else:
         raise Exception("Could not find actions")
 
 
-def flop_cards(hand_text: str) -> list[str]:
+def flop_cards(hand_text: str) -> list[str] | list[None]:
     cards = re.findall(r'\*\*\* FLOP \*\*\* \[(.+)]', hand_text)
-    # Ex value of 'cards': ['As Ac Ad']. ***Note: No need to verify card value as PokerStars hand history is trustworthy.
+    # Ex value of 'cards': ['As Ac Ad'].
     if len(cards) == 1:
         return cards[0].split(' ')
     else:
-        return []
+        return [None, None, None]
 
 
-def turn_card(hand_text: str) -> str:
+def turn_card(hand_text: str) -> str | None:
     card = re.findall(r'\*\*\* TURN \*\*\* \[.+] \[(.{2})]', hand_text)
     if len(card) == 1:
         return card[0]
     else:
-        return ''
+        return None
 
 
-def river_card(hand_text: str) -> str:
+def river_card(hand_text: str) -> str | None:
     card = re.findall(r'\*\*\* RIVER \*\*\* \[.+] \[(.{2})]', hand_text)
     if len(card) == 1:
         return card[0]
 
     else:
-        return ''
+        return None
 
 
 def hero_name(hand_text: str) -> str:
@@ -137,14 +138,14 @@ def hero_cards(hand_text: str) -> list[str]:
         raise Exception("Could not find hero cards")
 
 
-def get_showdown(hand_text: str) -> list[tuple[str, list[str]]]:
-    # Return format: [(player_name, [As, Ac]), ...]
+def get_showdown(hand_text: str) -> list[tuple[str, str, str]]:
+    # Return format: [(player_name, card_1, card_2), ...]
     showdown = []
     matches = re.findall(r'(.+): shows \[(.+)]', hand_text)
     if len(matches) > 0:
         for match in matches:
-            cards = match[1].split(' ')
-            showdown.append((match[0], cards))
+            card_1, card_2 = match[1].split(' ')
+            showdown.append((match[0], card_1, card_2))
     return showdown
 
 
