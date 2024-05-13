@@ -41,4 +41,5 @@ if __name__ == "__main__":
                     print("Failed at hand " + hand_parser.hand_id(hand))
                     print(e)
                 except:
-                    print("End of file")
+                    print("Trouble with this hand: ")
+                    print(hand)

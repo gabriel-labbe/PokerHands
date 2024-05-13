@@ -4,7 +4,7 @@ import re
 def extract_hands_from_zoom_file(file_name: str) -> list[str]:
     with open(file_name, encoding='utf8') as f:
         text = f.read()
-        return text.split("\n\n\n\n\n\n")
+        return re.split(r'\n{2,}', text)
 
 
 def hand_id(hand_history: str) -> str:
