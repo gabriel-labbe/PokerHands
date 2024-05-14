@@ -66,6 +66,7 @@ if __name__ == "__main__":
     CREATE TABLE action (
         hand_id CHAR(12),
         action_number INT,
+        street VARCHAR(6) NOT NULL,
         player_name VARCHAR(40) NOT NULL,
         type CHAR(1) NOT NULL,
         size FLOAT NOT NULL,

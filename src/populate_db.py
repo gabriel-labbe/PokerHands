@@ -61,11 +61,11 @@ def insert_actions(connection: mysql.connector.MySQLConnection, hand_history: st
     actions = hand_parser.actions(hand_history)
     sql_action = """
                     INSERT INTO action VALUES
-                    (%s, %s, %s, %s, %s);
+                    (%s, %s, %s, %s, %s, %s);
                 """
     action_number = 0
-    for player_name, action_type, action_size in actions:
-        execute_query(connection, sql_action, (hand_id, action_number, player_name, action_type, action_size))
+    for player_name, action_type, action_size, street in actions:
+        execute_query(connection, sql_action, (hand_id, action_number, street, player_name, action_type, action_size))
         action_number += 1
 
 

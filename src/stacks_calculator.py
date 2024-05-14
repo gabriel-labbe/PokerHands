@@ -27,7 +27,7 @@ def subtract_posts_from_stacks(hand_history: str, status: pd.DataFrame) -> pd.Da
 
 
 def subtract_actions_from_stacks(hand_history: str, status: pd.DataFrame) -> pd.DataFrame:
-    for name, action_type, amount in actions(hand_history):
+    for name, action_type, amount, _ in actions(hand_history):
         if action_type == 'C':
             status.loc[status['name'] == name, "to_call"] = 0.0
             status.loc[status['name'] == name, "stack"] -= amount

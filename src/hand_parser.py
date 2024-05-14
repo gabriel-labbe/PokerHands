@@ -79,28 +79,67 @@ def get_posts(hand_history: str) -> list[tuple[str, str, float]]:
         raise Exception("Could not find any posts")
 
 
-def actions(hand_history: str) -> list[tuple[str, str, float]]:
+def actions(hand_history: str) -> list[tuple[str, str, float, str]]:
     # The use of a letter for action types is standard in the poker community
     action_types = {'folds': 'F',
                     'checks': 'X',
                     'calls': 'C',
                     'bets': 'B',
                     'raises': 'R'}
-    matches = re.findall(r'(.+): (folds|checks|calls|bets|raises) \$?([\d.]+)*', hand_history)
-    if len(matches) > 0:
-        formatted_actions = []
-        for match in matches:
-            player_name = match[0]
-            action_type = action_types[match[1]]
-            if match[2] == '':
-                # Set the size to 0 for actions 'folds' and 'checks'
-                action_size = 0
-            else:
-                action_size = float(match[2])
-            formatted_actions.append((player_name, action_type, action_size))
-        return formatted_actions
+    streets = ['preflop', 'flop', 'turn', 'river']
+    current_street_index = 0
+    change_of_street_indexes = _get_change_of_street_indexes(hand_history)
+    matches = re.finditer(r'(.+): (folds|checks|calls|bets|raises) \$?([\d.]+)*', hand_history)
+    formatted_actions = []
+    for match in matches:
+        player_name = match[1]
+        action_type = action_types[match[2]]
+        if match[3]:
+            # Set the size to 0 for actions 'folds' and 'checks'
+            action_size = float(match[3])
+        else:
+            action_size = 0.0
+        if len(change_of_street_indexes) > 0:
+            if match.start() > change_of_street_indexes[0]:
+                current_street_index += 1
+                change_of_street_indexes.pop(0)
+        formatted_actions.append((player_name, action_type, action_size, streets[current_street_index]))
+    return formatted_actions
+
+
+def _flop_index(hand_history: str) -> int:
+    match = re.search(r'\*\*\* FLOP \*\*\*', hand_history)
+    if match:
+        return match.start()
     else:
-        raise Exception("Could not find actions")
+        return -1
+
+
+def _turn_index(hand_history: str) -> int:
+    match = re.search(r'\*\*\* TURN \*\*\*', hand_history)
+    if match:
+        return match.start()
+    else:
+        return -1
+
+
+def _river_index(hand_history: str) -> int:
+    match = re.search(r'\*\*\* RIVER \*\*\*', hand_history)
+    if match:
+        return match.start()
+    else:
+        return -1
+
+
+def _get_change_of_street_indexes(hand_history: str) -> list[int]:
+    indexes = []
+    if _flop_index(hand_history) > 0:
+        indexes.append(_flop_index(hand_history))
+    if _turn_index(hand_history) > 0:
+        indexes.append(_turn_index(hand_history))
+    if _river_index(hand_history) > 0:
+        indexes.append(_river_index(hand_history))
+    return indexes
 
 
 def flop_cards(hand_history: str) -> list[str] | list[None]:
