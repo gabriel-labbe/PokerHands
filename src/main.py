@@ -1,31 +1,27 @@
 import hand_parser
 import mysql.connector
 from mysql.connector import Error
-from config import pw
+import config
 from populate_db import populate_db
 from os import listdir
 from os.path import isfile, join
 
 
-def create_db_connection(host_name, user_name, user_password, db_name):
+
+if __name__ == "__main__":
     connection = None
     try:
         connection = mysql.connector.connect(
-            host=host_name,
-            user=user_name,
-            passwd=user_password,
-            database=db_name
+            host=config.HOST,
+            user=config.USER,
+            passwd=config.PW,
+            database=config.DB_NAME
         )
         print("MySQL Database connection successful")
     except Error as err:
         print(f"Error: '{err}'")
 
-    return connection
 
-
-if __name__ == "__main__":
-    db = "pokerhand"
-    connection = create_db_connection("localhost", "root", pw, db)
 
     zoom_data_path = "../data/zoom/"
     file_names = [zoom_data_path + f for f in listdir(zoom_data_path) if isfile(join(zoom_data_path, f))]

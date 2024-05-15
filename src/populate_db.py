@@ -10,7 +10,7 @@ def execute_query(connection, query, val):
         cursor.execute(query, val)
         connection.commit()
     except Error as err:
-        pass
+        print(err)
 
 
 def populate_db(connection, hand_history: str) -> None:
@@ -32,11 +32,13 @@ def insert_hand(connection: mysql.connector.MySQLConnection, hand_history: str) 
     river = hand_parser.river_card(hand_history)
     total_pot = hand_parser.total_pot(hand_history)
     rake = hand_parser.rake(hand_history)
+    is_showdown = len(hand_parser.get_showdown(hand_history)) > 0
     sql_hand = '''
                 INSERT INTO hand VALUES 
-                (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
+                (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
                 '''
-    val_hand = (hand_id, date_time, button, small_blind, big_blind, ante, flop_1, flop_2, flop_3, turn, river, total_pot, rake)
+    val_hand = (hand_id, date_time, button, small_blind, big_blind, ante, flop_1, flop_2, flop_3, turn, river,
+                total_pot, rake, is_showdown)
 
     execute_query(connection, sql_hand, val_hand)
 

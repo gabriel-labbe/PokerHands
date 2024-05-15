@@ -1,6 +1,6 @@
 import mysql.connector
 from mysql.connector import Error
-from config import pw
+import config
 
 
 def create_db_connection(host_name, user_name, user_password, db_name):
@@ -31,8 +31,7 @@ def execute_query(connection, query):
 
 
 if __name__ == "__main__":
-    db = "pokerhand"
-    connection = create_db_connection("localhost", "root", pw, db)
+    connection = create_db_connection("localhost", "root", config.PW, config.DB_NAME)
 
     drop_tables = """
     DROP TABLE cards;
