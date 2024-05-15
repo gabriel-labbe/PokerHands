@@ -159,5 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-src/config.py
-data/zoom/
+config.py
+db/data/cash/

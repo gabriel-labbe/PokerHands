@@ -1,10 +1,15 @@
+from os import listdir
+from os.path import isfile, join
 import mysql.connector
 from mysql.connector import Error
-import hand_parser
-from stacks_calculator import calculate_ending_stacks
+
+import db.hand_parser as parser
+from init_db import create_db_connection
+import config
+from db.stacks_calculator import calculate_ending_stacks
 
 
-def execute_query(connection, query, val):
+def execute_query(connection: mysql.connector.MySQLConnection, query: str, val: tuple):
     cursor = connection.cursor()
     try:
         cursor.execute(query, val)
@@ -13,7 +18,7 @@ def execute_query(connection, query, val):
         print(err)
 
 
-def populate_db(connection, hand_history: str) -> None:
+def populate_db(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
     insert_hand(connection, hand_history)
     insert_participants(connection, hand_history)
     insert_actions(connection, hand_history)
@@ -22,17 +27,17 @@ def populate_db(connection, hand_history: str) -> None:
 
 
 def insert_hand(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
-    hand_id = hand_parser.hand_id(hand_history)
-    date_time = hand_parser.get_datetime(hand_history)
-    button = hand_parser.button_seat(hand_history)
-    small_blind, big_blind = hand_parser.blind_level(hand_history)
+    hand_id = parser.hand_id(hand_history)
+    date_time = parser.get_datetime(hand_history)
+    button = parser.button_seat(hand_history)
+    small_blind, big_blind = parser.blind_level(hand_history)
     ante = 0
-    flop_1, flop_2, flop_3 = hand_parser.flop_cards(hand_history)
-    turn = hand_parser.turn_card(hand_history)
-    river = hand_parser.river_card(hand_history)
-    total_pot = hand_parser.total_pot(hand_history)
-    rake = hand_parser.rake(hand_history)
-    is_showdown = len(hand_parser.get_showdown(hand_history)) > 0
+    flop_1, flop_2, flop_3 = parser.flop_cards(hand_history)
+    turn = parser.turn_card(hand_history)
+    river = parser.river_card(hand_history)
+    total_pot = parser.total_pot(hand_history)
+    rake = parser.rake(hand_history)
+    is_showdown = len(parser.get_showdown(hand_history)) > 0
     sql_hand = '''
                 INSERT INTO hand VALUES 
                 (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s);
@@ -44,9 +49,9 @@ def insert_hand(connection: mysql.connector.MySQLConnection, hand_history: str) 
 
 
 def insert_participants(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
-    hand_id = hand_parser.hand_id(hand_history)
-    player_names = hand_parser.player_names(hand_history)
-    starting_stacks = hand_parser.starting_stacks(hand_history)
+    hand_id = parser.hand_id(hand_history)
+    player_names = parser.player_names(hand_history)
+    starting_stacks = parser.starting_stacks(hand_history)
     ending_stacks = calculate_ending_stacks(hand_history)
 
     sql_participant = """
@@ -59,8 +64,8 @@ def insert_participants(connection: mysql.connector.MySQLConnection, hand_histor
 
 
 def insert_actions(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
-    hand_id = hand_parser.hand_id(hand_history)
-    actions = hand_parser.actions(hand_history)
+    hand_id = parser.hand_id(hand_history)
+    actions = parser.actions(hand_history)
     sql_action = """
                     INSERT INTO action VALUES
                     (%s, %s, %s, %s, %s, %s);
@@ -72,8 +77,8 @@ def insert_actions(connection: mysql.connector.MySQLConnection, hand_history: st
 
 
 def insert_posts(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
-    hand_id = hand_parser.hand_id(hand_history)
-    posts = hand_parser.get_posts(hand_history)
+    hand_id = parser.hand_id(hand_history)
+    posts = parser.get_posts(hand_history)
     sql_post = """
                     INSERT INTO post VALUES
                     (%s, %s, %s, %s, %s);
@@ -85,17 +90,36 @@ def insert_posts(connection: mysql.connector.MySQLConnection, hand_history: str)
 
 
 def insert_cards(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:
-    hand_id = hand_parser.hand_id(hand_history)
-    hero_name = hand_parser.hero_name(hand_history)
-    hero_card_1, hero_card_2 = hand_parser.hero_cards(hand_history)
+    hand_id = parser.hand_id(hand_history)
+    hero_name = parser.hero_name(hand_history)
+    hero_card_1, hero_card_2 = parser.hero_cards(hand_history)
     sql_cards = """
                     INSERT INTO cards VALUES
                     (%s, %s, %s, %s);
                 """
     execute_query(connection, sql_cards, (hand_id, hero_name, hero_card_1, hero_card_2))
 
-    showdown = hand_parser.get_showdown(hand_history)
+    showdown = parser.get_showdown(hand_history)
     for player_name, card_1, card_2 in showdown:
         execute_query(connection, sql_cards, (hand_id, player_name, card_1, card_2))
 
 
+if __name__ == "__main__":
+    connection = create_db_connection(config.HOST, config.USER, config.PW, config.DB_NAME)
+
+    zoom_data_path = "data/cash/"
+    file_names = [zoom_data_path + f for f in listdir(zoom_data_path) if isfile(join(zoom_data_path, f))]
+
+    for file_name in file_names:
+        print("Processing file " + file_name)
+        hands = parser.extract_hands_from_zoom_file(file_name)
+        for hand in hands:
+            try:
+                populate_db(connection, hand)
+            except Exception as e:
+                try:
+                    print("Failed at hand " + parser.hand_id(hand))
+                    print(e)
+                except:
+                    print("Trouble with this hand: ")
+                    print(hand)

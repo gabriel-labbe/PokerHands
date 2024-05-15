@@ -27,6 +27,22 @@ def create_database(connection, query):
         print(f"Error: '{err}'")
 
 
+def create_db_connection(host_name, user_name, user_password, db_name):
+    connection = None
+    try:
+        connection = mysql.connector.connect(
+            host=host_name,
+            user=user_name,
+            passwd=user_password,
+            database=db_name
+        )
+        print("MySQL Database connection successful")
+    except Error as err:
+        print(f"Error: '{err}'")
+
+    return connection
+
+
 def execute_query(connection, query):
     cursor = connection.cursor()
     try:
@@ -40,18 +56,9 @@ def execute_query(connection, query):
 
 if __name__ == "__main__":
     connection = create_server_connection(config.HOST, config.USER, config.PW)
-    try:
-        connection = mysql.connector.connect(
-            host=config.HOST,
-            user=config.USER,
-            passwd=config.PW,
-            database=config.DB_NAME
-        )
-        print("MySQL Database connection successful")
-    except Error as err:
-        print(f"Error: '{err}'")
     create_database_query = "CREATE DATABASE " + config.DB_NAME
     create_database(connection, create_database_query)
+    connection = create_db_connection(config.HOST, config.USER, config.PW, config.DB_NAME)
 
     create_hand_table = """
         CREATE TABLE hand (
