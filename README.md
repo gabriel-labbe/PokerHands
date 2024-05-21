@@ -14,7 +14,7 @@ Data analysis project for my poker hands (cash game only, no tournament). Curren
 
 ![](/images/WinningsGraphEx.PNG)
 
-As we can see from the graph, cash games is not a good format for me and it needs to be worked on :).
+As we can see from the graph, cash games is not my best format and it needs to be worked on :).
 
 ### Heatmap
 ![](/images/HeatmapEx.PNG)
