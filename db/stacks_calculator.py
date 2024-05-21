@@ -1,4 +1,4 @@
-from hand_parser import player_names, starting_stacks, actions, get_collectors, uncalled_bet, get_posts, get_cash_outs
+from db.hand_parser import player_names, starting_stacks, actions, get_collectors, uncalled_bet, get_posts, get_cash_outs
 import pandas as pd
 
 

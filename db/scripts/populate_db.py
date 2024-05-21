@@ -107,7 +107,7 @@ def insert_cards(connection: mysql.connector.MySQLConnection, hand_history: str)
 if __name__ == "__main__":
     connection = create_db_connection(config.HOST, config.USER, config.PW, config.DB_NAME)
 
-    zoom_data_path = "data/cash/"
+    zoom_data_path = "../data/cash/"
     file_names = [zoom_data_path + f for f in listdir(zoom_data_path) if isfile(join(zoom_data_path, f))]
 
     for file_name in file_names:
