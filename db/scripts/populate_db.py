@@ -53,14 +53,17 @@ def insert_participants(connection: mysql.connector.MySQLConnection, hand_histor
     player_names = parser.player_names(hand_history)
     starting_stacks = parser.starting_stacks(hand_history)
     ending_stacks = calculate_ending_stacks(hand_history)
+    seat_dico = parser.get_seat_number(hand_history)
 
     sql_participant = """
                     INSERT INTO participant VALUES
-                    (%s, %s, %s, %s);
+                    (%s, %s, %s, %s, %s);
                 """
 
     for i in range(len(player_names)):
-        execute_query(connection, sql_participant, (player_names[i], hand_id, starting_stacks[i], ending_stacks[i]))
+        execute_query(connection, sql_participant,
+                      (player_names[i], hand_id, starting_stacks[i], ending_stacks[i], seat_dico[player_names[i]])
+                      )
 
 
 def insert_actions(connection: mysql.connector.MySQLConnection, hand_history: str) -> None:

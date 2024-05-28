@@ -239,3 +239,11 @@ def uncalled_bet(hand_history: str) -> tuple[str, float]:
         return matches[0][1], float(matches[0][0])
     else:
         raise Exception("No uncalled bet were found")
+
+
+def get_seat_number(hand_history: str) -> dict[str, int]:
+    matches = re.findall(r'Seat (\d): (.+) \(\$?[\d.]+ in chips\)', hand_history)
+    dico = {}
+    for match in matches:
+        dico[match[1]] = int(match[0])
+    return dico

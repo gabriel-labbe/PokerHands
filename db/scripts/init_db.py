@@ -85,6 +85,7 @@ if __name__ == "__main__":
             hand_id CHAR(12),
             starting_stack FLOAT NOT NULL,
             ending_stack FLOAT NOT NULL,
+            seat INT,
             PRIMARY KEY (name, hand_id)
             );        
         """
